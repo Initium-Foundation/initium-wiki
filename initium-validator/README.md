@@ -9,4 +9,4 @@ Table of Contents:
 3. [Validator Requirements](validator-requirements.md)
 4. [Validators Community](validators-community.md)
 5. [Validators Rewards](validators-rewards.md)
-6. [Validators Documentation](validators-documentation.md)
+6. [Validators Documentation](validator-documentation.md)

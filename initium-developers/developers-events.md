@@ -13,3 +13,7 @@ The Blox grand event is the main event for the Initium Developer Community and i
 ### Covenant Grand Event
 
 Covenant event is the public event of the Initium Foundation where all fans and community members of the Initium ecosystem come together. In these events, the Initiumers will meet the core teams of the projects, Initium Foundation's business partners, Initium Ambassadors, Contributors, Premiums, and even Primes. The calendar of Covenant events will be available on the Initium Foundation and Initium Team websites.
+
+### Blox Rebels
+
+Blox Rebels is a global, online hackathon for the Initium ecosystem and community. The developers (individuals and teams) interested in dipping their toes into web3, the Blox Rebels is the perfect opportunity to start their journey and benefit from the rewards and sponsorships by the Initium Foundation and business partners. Further information will be available on Initium Labs' website.&#x20;

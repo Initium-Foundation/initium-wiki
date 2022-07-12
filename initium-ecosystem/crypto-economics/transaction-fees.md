@@ -6,9 +6,9 @@ description: >-
 
 # Transaction Fees
 
-### What is Nip?
+### Low-Cost Transactions&#x20;
 
-Nip is the smallest amount of INITIUM. 1 Nip equals 0.000000001 or 10^-9 of INITIUM. 1 INITIUM is 10^9 Nip. Nip is used to calculate the transaction fee on the Initium network. In another word, transaction fees on the Initium network will be paid by a fraction of INITIUM. The proposed basic transaction fee on the Initium network is 5000 Nips, equal to 0.000005 INITIUM.&#x20;
+Transaction fees on the Initium network will be paid by leptons, a fraction of INI. The proposed basic transaction fee on the Initium network is 5000 leptons, equal to 0.000005 INITIUM.&#x20;
 
 ### Transaction Fees
 

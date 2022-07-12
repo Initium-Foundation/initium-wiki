@@ -6,7 +6,7 @@ Table of Contents:
 
 1. [Introduction](introduction.md)
 2. [Code of Conduct](initiumer-code-of-conduct.md)
-3. [Initium Publications](community-publications.md)
+3. [Initium Publications](initium-publications.md)
 4. [Community Events](community-events.md)
 5. [Community Rewards](community-rewards.md)
 
