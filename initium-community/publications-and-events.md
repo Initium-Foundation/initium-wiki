@@ -1,4 +1,4 @@
-# Initium Publications
+# Publications and Events
 
 Initium Foundation releases various publications to communicate with the community and provide them with the latest updates, insights, ideas, and progress of the Initium ecosystem. Here is a list of Initium publications for the community:
 
@@ -20,5 +20,5 @@ The Initiumer forum available on https://forum.initium.foundation is a place for
 
 ### Mentor
 
-Mentor is the academy of Initium Foundation for providing the Initumers with useful training content (e.g., courses) on blockchain technology and the Initium ecosystem. You can access the Mentor via https://mentor.initium.foundation.&#x20;
+The Mentor is the academy of Initium Foundation for providing the Initumers with useful training content (e.g., courses) on blockchain technology and the Initium ecosystem. You can access the Mentor via https://mentor.initium.foundation.&#x20;
 

@@ -20,7 +20,7 @@
 * [Initium Community](initium-community/README.md)
   * [Introduction](initium-community/introduction.md)
   * [Initiumer Code of Conduct](initium-community/initiumer-code-of-conduct.md)
-  * [Initium Publications](initium-community/initium-publications.md)
+  * [Publications and Events](initium-community/publications-and-events.md)
   * [Community Events](initium-community/community-events.md)
   * [Community Rewards](initium-community/community-rewards.md)
 * [Initium Developers](initium-developers/README.md)
