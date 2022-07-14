@@ -14,7 +14,7 @@ A vote booklet is needed to participate in consensus.&#x20;
 
 ### Transaction Fees
 
-Voting also requires sending a vote transaction for each block the validator agrees with, which can cost a few INI or [leptons](../initium-ecosystem/crypto-economics/initium-tokenomics/what-is-initium/what-is-lepton.md) per day.
+Voting also requires sending a vote transaction for each block the validator agrees with, which can cost a few INI or [leptons](../initium-ecosystem/crypto-economics/initium-tokenomics/what-is-inix/what-is-lepton.md) per day.
 
 ### Hardware Recommendations
 

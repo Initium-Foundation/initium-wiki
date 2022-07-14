@@ -16,9 +16,9 @@ The other participants in this crypto-economy are the HODLers. They are the user
 
 * [Terminology](teminology.md)
 * [Initium Tokenomics](initium-tokenomics/)
-  * [What is INITIUM ](initium-tokenomics/what-is-initium/)
-    * [Token vs. Coin](initium-tokenomics/what-is-initium/token-vs.-coin.md)
-    * [What is Lepton](initium-tokenomics/what-is-initium/what-is-lepton.md)
+  * [What is INITIUM ](initium-tokenomics/what-is-inix/)
+    * [Token vs. Coin](initium-tokenomics/what-is-inix/token-vs.-coin.md)
+    * [What is Lepton](initium-tokenomics/what-is-inix/what-is-lepton.md)
   * [Initial Supply Distribution ](initium-tokenomics/initial-supply-distribution.md)
   * [Staking Rewards](initium-tokenomics/staking-rewards.md)
   * [Inflation Schedule](initium-tokenomics/inflation-schedule.md)
