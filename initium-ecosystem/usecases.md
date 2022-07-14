@@ -41,3 +41,6 @@ Blockchain-as-a-service (BaaS) is the third-party creation and management of clo
 ### **IoT**
 
 Theoretically, the Initium blockchain can process a transaction in a fraction of a second. Our preliminary results show that Covenant achieves a worst-case synchronization error of 37 _µs (_0.037 _ms_) __ in a multi-hop network of up to 10 hops. It is ideal scalability for the Internet of Things (IoT) devices and networks. In addition, the security and the transparency provided by the Initium networks give the desired level of transparency and security to the decentralized IoT devices. The low-cost transaction fee makes the Initium network cost-effective for IoT services.&#x20;
+
+### Oracles
+
