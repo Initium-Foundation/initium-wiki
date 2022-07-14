@@ -1,22 +1,28 @@
 # Table of contents
 
 * [Initium Wiki](README.md)
-* [About Initium](about-initium/README.md)
-  * [Introduction to Initium](about-initium/introduction-to-initium.md)
-  * [Technology](about-initium/technology.md)
-  * [Network Design](about-initium/network-design.md)
-  * [Covenant Consensus](about-initium/covenant-consensus.md)
-  * [Versions Design](about-initium/versions-design.md)
-  * [Initium DAOs](about-initium/initium-daos.md)
-  * [Native Organization](about-initium/native-organization.md)
-  * [Initium Primes](about-initium/initium-primes.md)
-  * [The Initiumers](about-initium/the-initiumers.md)
-  * [Initium Chapters](about-initium/initium-chapters.md)
-  * [Initium Premium](about-initium/initium-premium.md)
-  * [How to Join Initium](about-initium/how-to-join-initium.md)
-  * [Job Vacancies](about-initium/job-vacancies.md)
-  * [Documentation Standards](about-initium/documentation-standards.md)
-  * [Brand and Logo](about-initium/brand-and-logo.md)
+
+## 📙 About Initium
+
+* [Table of Contents](about-initium/table-of-contents.md)
+* [Introduction to Initium](about-initium/introduction-to-initium.md)
+* [Technology](about-initium/technology.md)
+* [Network Design](about-initium/network-design.md)
+* [Covenant Consensus](about-initium/covenant-consensus.md)
+* [Versions Design](about-initium/versions-design.md)
+* [Initium DAOs](about-initium/initium-daos.md)
+* [Native Organization](about-initium/native-organization.md)
+* [Initium Primes](about-initium/initium-primes.md)
+* [The Initiumers](about-initium/the-initiumers.md)
+* [Initium Chapters](about-initium/initium-chapters.md)
+* [Initium Premium](about-initium/initium-premium.md)
+* [How to Join Initium](about-initium/how-to-join-initium.md)
+* [Job Vacancies](about-initium/job-vacancies.md)
+* [Documentation Standards](about-initium/documentation-standards.md)
+* [Brand and Logo](about-initium/brand-and-logo.md)
+
+***
+
 * [Initium Community](initium-community/README.md)
   * [Introduction](initium-community/introduction.md)
   * [Initiumer Code of Conduct](initium-community/initiumer-code-of-conduct.md)
