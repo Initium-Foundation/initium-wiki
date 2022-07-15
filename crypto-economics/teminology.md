@@ -25,7 +25,7 @@ Refers to the supply of the tokens generated during the INITIUM TGE. The initial
 
 ### INITIUM Distribution Plan&#x20;
 
-Refers to the distribution plan of  INITIUM's initial supply among the stakeholders. For more information, you may visit the [INITIUM Tokenimics](../).&#x20;
+Refers to the distribution plan of  INITIUM's initial supply among the stakeholders. For more information, you may visit the [INITIUM Tokenimics](../ecosystem/initium-ecosystem.md).&#x20;
 
 ### Annual Percentage Yield (APY)
 

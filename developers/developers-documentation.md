@@ -4,8 +4,8 @@ Initium Developers' Documentation is available at [https://docs.initium.one](htt
 
 See also:
 
-* [CraftBook](initium-publications.md#carftbook)
+* [CraftBook](developers-publications.md#carftbook)
 * [Initium Labs GitHub Repositories](https://github.com/initium-labs)
-* [initium-publications.md](initium-publications.md "mention")
-* [links-and-resources.md](../links-and-resources.md "mention")
+* [developers-publications.md](developers-publications.md "mention")
+* [links-and-resources.md](../appendix/links-and-resources.md "mention")
 

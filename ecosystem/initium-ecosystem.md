@@ -1,8 +1,8 @@
 # Initium Ecosystem
 
-This CHAPTER proposes the ecosystem and token economics of the Initium Network. The articles on this document are subject to change.
+This CHAPTER proposes the Initium's ecosystem. The articles on this document are subject to change.
 
-Table of Contents
+#### Table of Contents:
 
 1. Introduction
 2. Stakeholders

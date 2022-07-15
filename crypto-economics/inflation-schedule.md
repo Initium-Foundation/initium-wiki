@@ -8,11 +8,11 @@ description: >-
 
 ### Introduction&#x20;
 
-As mentioned before, the inflation rate of the INITIUM is subjected to various factors, including [_Initial Inflation Rate_](../teminology.md#inflation-schedule), [_Dis-Inflation Rate_](../teminology.md#inflation-schedule), and [_Long Term Inflation Rate_](../teminology.md#inflation-schedule).&#x20;
+As mentioned before, the inflation rate of the INITIUM is subjected to various factors, including [_Initial Inflation Rate_](teminology.md#inflation-schedule), [_Dis-Inflation Rate_](teminology.md#inflation-schedule), and [_Long Term Inflation Rate_](teminology.md#inflation-schedule).&#x20;
 
-At the INITIUM TGE, there will be 500,000,000 INITIUM as the Initial Supply which will be distributed according to the [Initium Tokenomics](../../). This supply will be considered as the [Total Current Supply](../teminology.md#total-current-supply) of the INITIUM.&#x20;
+At the INITIUM TGE, there will be 500,000,000 INITIUM as the Initial Supply which will be distributed according to the [Initium Tokenomics](../ecosystem/initium-ecosystem.md). This supply will be considered as the [Total Current Supply](teminology.md#total-current-supply) of the INITIUM.&#x20;
 
-Based on the [Pre-Genesis Period](../#1-pre-genesis-rewards) plan of the INITIUM, during this course the following HODLers of INITIUM will benefit from APY on the partner staking platforms;
+Based on the [Pre-Genesis Period](table-of-contents.md#1-pre-genesis-rewards) plan of the INITIUM, during this course the following HODLers of INITIUM will benefit from APY on the partner staking platforms;
 
 * Validator Investors: as the validator investors would own a maximum of 8% of the Initial Supply (approx. 40,000,000 INITIUM), they will receive their staking rewards by staking their INITIUM tokens on the [Initium Money](https://initium.money) platform. The proposed INITIUM staking APY for the validators' tokens is 15% for the first year.&#x20;
 * Public Sales Investors: the estimated public sales will cover 20% of the Initial Supply (approx. 100,000,000 INITIUM). The HODLers of the public tokens will receive their staking rewards by staking their INITIUM tokens on the staking platforms, including the  [Initium Money](https://initium.money) platform. The proposed INITIUM staking APY is 15% for the first year.&#x20;
@@ -38,13 +38,13 @@ Since the majority of the Inflation (60%) is distributed to the validators, this
 
 The inflation rate during the Pre-Genesis Year is zero, and the network will not create any new token. As mentioned earlier, the HODLers can benefit from staking rewards during this period.&#x20;
 
-The Genesis Year inflation rate is 10% which will add 50,000,000 new coins to the circulating supply by the end of the year. However, the [Fee Burning Mechanism](../transaction-fees.md) will burn 50% of any transaction for the first four years. Although the transaction fees are too small on the INITIUM (by 0.00005 INITIUM per TX), however, the partial fee burning will be very effective for dis-inflation of the INITIUM. By considering 40,000 TXP on the Initium mainnet, the estimated total of 1,261,440,000,000 transactions can take place annually on the Initium network by the total transaction fees of 6,307,200 INITIUM per year. It means that in the first four years of the launching of the mainnet, the total amount of 12,614,400 INITIUM will be burned. For further details, you may read the [Transaction Fees](../transaction-fees.md).&#x20;
+The Genesis Year inflation rate is 10% which will add 50,000,000 new coins to the circulating supply by the end of the year. However, the [Fee Burning Mechanism](transaction-fees.md) will burn 50% of any transaction for the first four years. Although the transaction fees are too small on the INITIUM (by 0.00005 INITIUM per TX), however, the partial fee burning will be very effective for dis-inflation of the INITIUM. By considering 40,000 TXP on the Initium mainnet, the estimated total of 1,261,440,000,000 transactions can take place annually on the Initium network by the total transaction fees of 6,307,200 INITIUM per year. It means that in the first four years of the launching of the mainnet, the total amount of 12,614,400 INITIUM will be burned. For further details, you may read the [Transaction Fees](transaction-fees.md).&#x20;
 
 The fee burning mechanism will reduce the fee burning every four years cycle by 15%, and after 36 years, there will be no fee burnings.&#x20;
 
 In the second year (one year after Genesis Year), the dis-inflation mechanism will reduce the inflation rate by 15% every year. The inflation rate will continue to dis-inflate and will be zero in the 36 years.&#x20;
 
-![Figure 1. The inflation rate of INITIUM by year.](<../../../.gitbook/assets/Screen Shot 2022-07-06 at 9.31.17 PM.png>)
+![Figure 1. The inflation rate of INITIUM by year.](<../.gitbook/assets/Screen Shot 2022-07-06 at 9.31.17 PM.png>)
 
 ### Block Rewards and Inflation&#x20;
 
@@ -56,17 +56,17 @@ Block reward is subjected to the _halving_ mechanism by which the block reward w
 
 Since the Genesis block on the Initium network, the block reward will be 1 INITIUM per block which will be rewarded to the Prime Node of every block. Figure 2 illustrates the halving impact on the total added amount of INITIUM to the ecosystem.&#x20;
 
-![Figure 2. Halving in the Initium network.](<../../../.gitbook/assets/Screen Shot 2022-07-06 at 9.50.07 PM.png>)
+![Figure 2. Halving in the Initium network.](<../.gitbook/assets/Screen Shot 2022-07-06 at 9.50.07 PM.png>)
 
 ### The Effective Inflation Rate
 
 By considering all of the above-mentioned factors, the Effective Inflation Rate (EIR) of the INITIUM can be summarized by the table below.
 
-![Figure 3. INITIUM inflation table. ](<../../../.gitbook/assets/Screen Shot 2022-07-07 at 1.45.15 PM.png>)
+![Figure 3. INITIUM inflation table. ](<../.gitbook/assets/Screen Shot 2022-07-07 at 1.45.15 PM.png>)
 
 As illustrated in Figure 3, the _Effective Inflation Rate_ tends to be below 1% after 17 years, and the estimated Maximum Supply of the INITIUM would be around **1,739,581,608**. It's important to note that this amount would be changed by some internal factors including the number of actual transactions per block (higher or lower than the estimated amount of transactions), the token burn by the users, etc.
 
-![Figure 4. The Effective Inflation Rate of INITIUM from the Genesis Year. ](<../../../.gitbook/assets/Screen Shot 2022-07-07 at 1.57.25 PM.png>)
+![Figure 4. The Effective Inflation Rate of INITIUM from the Genesis Year. ](<../.gitbook/assets/Screen Shot 2022-07-07 at 1.57.25 PM.png>)
 
 As illustrated in Figure 4, the Effective Inflation Rate of INITIUM will sharply decline from the second year and will tend to be below 1% after 17 years and finally will be zero in the year 36.&#x20;
 

@@ -4,4 +4,6 @@ Lepton is the smallest amount of INITIUM (INI). 1 lepton equals 0.000000001 or 1
 
 If you are interested to learn about the origin of Lepton, we recommend reading the following link:
 
-[https://en.wikipedia.org/wiki/Lepton](https://en.wikipedia.org/wiki/Lepton)
+{% embed url="https://en.wikipedia.org/wiki/Lepton" %}
+What means Lepton?
+{% endembed %}
