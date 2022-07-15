@@ -6,15 +6,17 @@ description: This article is subjected to change.
 
 ### Initium Native Token
 
-INIX is the native token of the Initium blockchain. To understand it better, INIX plays the same role for the Initium blockchain as Ether in the Ethereum blockchain or BNB in the Binance Chain. This document may use both INITIUM and INI to refer to the Initium native token. Since the mainnet of the Initium blockchain has not yet been launched, INITIUM (INI) will be hosted by partner blockchains, including Ethereum, Binance Chain, Polygone, etc.
+INIX is the native token of the Initium blockchain. To understand it better, INIX plays the same role for the Initium blockchain as Ether in the Ethereum blockchain or BNB in the Binance Chain. This document may use both INITIUM and INIX to refer to the Initium native token. In this document, we may use the terms "native token" or "native coin" to refer to the INIX. Since the mainnet of the Initium blockchain has not yet been launched, INITIUM (INI) will be hosted by partner blockchains, including Ethereum, Binance Chain, Polygone, etc.
+
+It's recommended to read [Terminology](../../teminology.md) for further information.&#x20;
 
 ### INIX Usecases
 
 The Initium community can use INIX in Pre-Genesis and Post-Genesis periods in various cases.&#x20;
 
-#### Pre-Genesis Use cases
+#### Pre-Genesis Usecases
 
-Pre-Genesis refers to the period between the end of the INIX official token sales course and the launch of the Initium mainnet. The proposed usecases for INIX during this period are (but are not limited to) as followings:
+The proposed usecases for INIX during this period are (but are not limited to) as followings:
 
 * Staking pools: the holders of INIX can stake their tokens in the partner exchanges for receiving APY.
 * Governance: the holders of INIX can contribute to the ecosystem governance by voting in DAOs.
@@ -22,7 +24,7 @@ Pre-Genesis refers to the period between the end of the INIX official token sale
 
 #### Post-Genesis Usecases
 
-Post-Genesis refers to the time after launching the mainnet of the Initium blockchain. During this period, the INIX will be migrated to the Initium blockchain. The proposed usecases for INIX during this period are (but are not limited to) as followings:
+During this period, the INIX will be migrated to the Initium blockchain. The proposed usecases for INIX during this period are (but are not limited to) as followings:
 
 * **Validators' Staking Pools**: the holders of INIX can stake their INIX tokens at the Initium validators to help them in securing the network. In return, validators will reward them with the staking rewards in terms of APY. Staking at the validators has higher APY in comparison to other staking methods.&#x20;
 * **Staking Pools**: the holders of INIX can stake their INIX tokens at exchanges and DeFi platforms and receive their staking rewards in terms of APY as per the terms and policies of the pertaining platforms.&#x20;
