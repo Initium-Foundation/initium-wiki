@@ -6,7 +6,7 @@ description: This article is subjected to change.
 
 ### Initium Native Token
 
-INIX is the native token of the Initium blockchain. To understand it better, INIX plays the same role for the Initium blockchain as Ether in the Ethereum blockchain or BNB in the Binance Chain. This document may use both INITIUM and INIX to refer to the Initium native token. In this document, we may use the terms "native token" or "native coin" to refer to the INIX. Since the mainnet of the Initium blockchain has not yet been launched, INITIUM (INI) will be hosted by partner blockchains, including Ethereum, Binance Chain, Polygone, etc.
+INITIUM (a.k.a INIX) is the native token of the Initium blockchain. To understand it better, INIX plays the same role for the Initium blockchain as Ether in the Ethereum blockchain or BNB in the Binance Chain. This document may use both INITIUM and INIX to refer to the Initium native token. In this document, we may use the terms "native token" or "native coin" to refer to the INIX. Since the mainnet of the Initium blockchain has not yet been launched, INITIUM (INI) will be hosted by partner blockchains, including Ethereum, Binance Chain, Polygone, etc.
 
 It's recommended to read [Terminology](../../teminology.md) for further information.&#x20;
 
@@ -35,10 +35,10 @@ During this period, the INIX will be migrated to the Initium blockchain. The pro
 
 ### Inix Initial Supply&#x20;
 
-The initial supply of INIX is 500,000,000 (five hundred million) which will be generated during the official Token Generation Event (TGE). The TGE will be announced officially by the Initium Foundation and the Initium community can acquire their INIX tokens based on the terms and regulations determined by the Initium Foundation.&#x20;
+The initial supply of INIX is 500,000,000 (five hundred million) which will be generated during the official Token Generation Event ([INIX TGE](../../teminology.md#inix-tge)). The TGE will be announced officially by the Initium Foundation and the Initium community can acquire their INIX tokens during the INIX sales rounds or via the [Airdrops](../airdrops.md).&#x20;
 
-Since before launching the mainnet of the Initium network, INIX will be a multi-blockchain token, the functions of `mint` and `burn` in the smart contracts will ensure that the accumulated supply on all networks cannot exceed the total supply of the token. &#x20;
+Since before launching the mainnet of the Initium network, INIX will be a multi-blockchain token, the functions of `mint` and `burn` in the smart contracts will ensure that the accumulated supply on all networks cannot exceed the [_Total Current Supply_](../../teminology.md#total-current-supply) of the token. &#x20;
 
-The HODLers of INIX can migrate their tokens from one blockchain network to another network by using the Initium Bridge (RedWrap), which enables the conversion of INIX from one network to another. For this, the INIX token on a network of origin (e.g., Ethereum) will be burned by the burn function and, then, will be minted on the destination network (e.g., Binance Chain).&#x20;
+The owners of INIX can migrate their tokens from one blockchain to another by using the Initium Bridge ([RedWrap](../../../../wallet-guide/redwrap.md)). For this, the INIX token on a network of origin (e.g., Ethereum) will be burned by the burn function and, then, will be minted by the INIX token contract on the destination network (e.g., Binance Chain).&#x20;
 
-After the successful launch of the mainnet of the Initium blockchain, the Initium Bridge will enable the users to wrap the various types of coins and tokens from different blockchain networks into the Initium network too. This enables the users to use the INIX in the DeFi platform on the other blockchain networks and increase the circulating and the demand for the INIX.
+After the [Genesis Event](../../teminology.md#genesis-event), the Initium Bridge will enable the users to wrap the various types of coins and tokens from different blockchain networks into the Initium network too. This enables the users to use the INIX in the DeFi platform on the other blockchain networks and increase the circulating and the demand for the INIX.
