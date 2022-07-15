@@ -1,4 +1,4 @@
-# Initium Validator
+# Table of Contents
 
 This chapter includes articles about the Initium validators and describes the relations between the Initium ecosystem stakeholders.&#x20;
 

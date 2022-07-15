@@ -20,7 +20,7 @@ This document will discuss the rewards in three stages of the Initium network du
 
 This period is the period between the issuance of the INITIUM initial supply as a token and the launch of the mainnet of the Initium network. During this period, the HODLers of the INITIUM who participated in the public sales of the INITIUM token would receive an APY for staking their INITIUM on the partner staking platforms. For this, the snapshots from the wallets will be acquired by the staking providers, and the rewards will be distributed based on the average staking amount and the effective staking days.&#x20;
 
-The source of these rewards is the Rewards Pool Reserves (RPR) which is managed by the Initium Foundation. This reserve will be created during the [INITIUM TGE](teminology.md#initium-tge) with the primary reserves of 30% of the [Initial Supply](teminology.md#initial-supply) (estimated to be 150,000,000 IOT).&#x20;
+The source of these rewards is the Rewards Pool Reserves (RPR) which is managed by the Initium Foundation. This reserve will be created during the [INITIUM TGE](../teminology.md#initium-tge) with the primary reserves of 30% of the [Initial Supply](../teminology.md#initial-supply) (estimated to be 150,000,000 IOT).&#x20;
 
 #### 2) Genesis Rewards
 

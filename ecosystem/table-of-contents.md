@@ -1,4 +1,4 @@
-# Initium Ecosystem
+# Table of Contents
 
 This CHAPTER proposes the Initium's ecosystem. The articles on this document are subject to change.
 

@@ -1,4 +1,4 @@
-# What is Blox?
+# Blox
 
 **Blox** _(to be pronounced as blocks)_ is the name of the Initium Developers Community and plays an essential role in the entire ecosystem's development, maintenance, and success.&#x20;
 

@@ -35,7 +35,7 @@ It's very simple! If you are interested to join the Initium Premium program, it 
 
 The Initium Foundation welcomes you to join the Initium Premium program if you are:
 
-* Members of [Blox](../developers/blox.md)
+* Members of [Blox](../initium-developers/what-is-blox.md)
 * enthusiast, leader, influencer, or expert;
 * passionate about technology and innovation;
 * an active community member who wants to help the global ecosystem;

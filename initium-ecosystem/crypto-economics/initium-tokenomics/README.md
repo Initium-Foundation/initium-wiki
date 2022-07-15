@@ -6,7 +6,7 @@ The main participants in this economy are validation clients. Their contribution
 
 The other participants in this crypto-economy are the HODLers. They are the users that may stake their tokens in Initium's staking pools and receive an annual percentage yield (APY). Their contribution to the network and requisite incentive mechanism are discussed in this document.&#x20;
 
-For a better understanding of the terms used in this document, it's recommended to use the [Initium Glossary of Terms](../appendix/glossary-of-terms.md).
+For a better understanding of the terms used in this document, it's recommended to use the [Initium Glossary of Terms](../../../glossary-of-terms.md).
 
 
 

@@ -6,8 +6,8 @@ Table of Contents:
 
 1. [Introduction](introduction.md)
 2. [Code of Conduct](code-of-conduct.md)
-3. [Blox](blox.md)
-4. [Developers' Publications ](developers-publications.md)
+3. [Blox](what-is-blox.md)
+4. [Developers' Publications ](initium-publications.md)
 5. [Developers' Events](developers-events.md)
 6. [Bug Bounty Programs](bug-bounty-programs.md)
 7. [Developers' Rewards](developers-rewards.md)

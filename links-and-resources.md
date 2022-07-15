@@ -2,7 +2,7 @@
 description: >-
   This article provides you with useful links and resources about the Initium
   ecosystem.
-cover: ../.gitbook/assets/wiki-header3.png
+cover: .gitbook/assets/wiki-header3.png
 coverY: 0
 ---
 

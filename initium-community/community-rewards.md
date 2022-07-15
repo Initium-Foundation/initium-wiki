@@ -2,7 +2,7 @@
 
 To encourage the Initiumers for their support and contribution to the Initium ecosystem and projects, the Initium Foundation conducts various rewards programs under the Community Rewards topic.&#x20;
 
-These rewards are funded by the Initium Foundations Reserves, which is a part of the total circulating supply of the INITIUM (INI) token generated during the Initial Supply TGE. In addition, the Initium Foundation will receive 10% of the _Inflation Rat_e of the INI based on the [Inflation Schedule](../crypto-economics/inflation-schedule.md).&#x20;
+These rewards are funded by the Initium Foundations Reserves, which is a part of the total circulating supply of the INITIUM (INI) token generated during the Initial Supply TGE. In addition, the Initium Foundation will receive 10% of the _Inflation Rat_e of the INI based on the [Inflation Schedule](../initium-ecosystem/crypto-economics/initium-tokenomics/inflation-schedule.md).&#x20;
 
 Initium Foundation may consider the rewards in other tokens (e.g., tokens of the projects in the Initium ecosystem) to diversify the rewards.&#x20;
 

@@ -6,7 +6,7 @@ description: Subject to change.
 
 ### Minimum INI requirements
 
-No strict minimum amount of INI will be required to run a validator on the Initium network. However, the validators with higher staking of INI have more voting power, receive more transactions to validate, and have more chances to be elected as the Prime Node to receive the block rewards. The Initium community can stake their INI tokens on the validators to increase their staking and receive the staking rewards. For more information, you may read [Staking Rewards](../crypto-economics/staking-rewards.md).&#x20;
+No strict minimum amount of INI will be required to run a validator on the Initium network. However, the validators with higher staking of INI have more voting power, receive more transactions to validate, and have more chances to be elected as the Prime Node to receive the block rewards. The Initium community can stake their INI tokens on the validators to increase their staking and receive the staking rewards. For more information, you may read [Staking Rewards](../initium-ecosystem/crypto-economics/initium-tokenomics/staking-rewards.md).&#x20;
 
 ### Vote Booklet
 
@@ -14,7 +14,7 @@ A vote booklet is needed to participate in consensus.&#x20;
 
 ### Transaction Fees
 
-Voting also requires sending a vote transaction for each block the validator agrees with, which can cost a few INI or [leptons](../crypto-economics/what-is-lepton.md) per day.
+Voting also requires sending a vote transaction for each block the validator agrees with, which can cost a few INI or [leptons](../initium-ecosystem/crypto-economics/initium-tokenomics/what-is-inix/what-is-lepton.md) per day.
 
 ### Hardware Recommendations
 

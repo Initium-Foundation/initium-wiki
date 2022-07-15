@@ -20,7 +20,7 @@ The best-known example of a coin in the blockchain space is Bitcoin, the origina
 
 And so if a coin (otherwise known as a cryptocurrency or native token), has its own blockchain, a **token is the opposite: it runs on another blockchain**.
 
-The best-known example of this is the [ERC20 token](../appendix/glossary-of-terms.md#erc-20), which is any token that uses the Ethereum blockchain. Some of the best-known ERC-20 tokens are USDT, USDC, Dai, BAT, etc.
+The best-known example of this is the [ERC20 token](../../../../glossary-of-terms.md#erc-20), which is any token that uses the Ethereum blockchain. Some of the best-known ERC-20 tokens are USDT, USDC, Dai, BAT, etc.
 
 ### Token vs. Coin: The Difference <a href="#head5" id="head5"></a>
 

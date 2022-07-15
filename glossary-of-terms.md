@@ -1,6 +1,6 @@
 ---
 description: A comprehensive glossary for blockchain and DeFi terms
-cover: ../.gitbook/assets/wiki-header3.png
+cover: .gitbook/assets/wiki-header3.png
 coverY: 0
 ---
 
@@ -112,7 +112,7 @@ Audits may be either informal or formal audits and are meant to be a tool to fin
 
 ## APY
 
-Annual Percentage Yield is a time-based measurement of the Return On Investment (ROI) on an asset. For example, $100 invested at 2% APY would yield $102 after one year, if there is no compounding of any interest earned on that $100 through the year. Assuming a static APY rate, the Monthly ROI would be 0.16%, in this case. For more information [click here](../crypto-economics/teminology.md#annual-percentage-yield-apy).
+Annual Percentage Yield is a time-based measurement of the Return On Investment (ROI) on an asset. For example, $100 invested at 2% APY would yield $102 after one year, if there is no compounding of any interest earned on that $100 through the year. Assuming a static APY rate, the Monthly ROI would be 0.16%, in this case. For more information [click here](initium-ecosystem/crypto-economics/teminology.md#annual-percentage-yield-apy).
 
 ## Arbitrage
 
