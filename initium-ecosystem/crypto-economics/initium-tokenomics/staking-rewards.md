@@ -12,29 +12,41 @@ This period is between the end of Public Sales Options and the [Genesis Event](.
 
 * **Private Sales' Investors**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to 5% APY during the vesting period.&#x20;
 * **Validators Staking Investors**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to 20% APY during the vesting period.&#x20;
-* **Public Sales Option A**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to a 20% APR for the vesting period (12 months). As these tokens will be unlocked after the vesting period, these HODLers can stake their INIX token on available pools to obtain rewards based on the regular APR.&#x20;
-* **Public Sales Option B**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to a 15% APR for the vesting period (18 months). As these tokens will be unlocked after the vesting period, these HODLers can stake their INIX token on available pools to obtain rewards based on the regular APR. &#x20;
-* **Public Sales Option C**: since these tokens are not subject to any vesting period, the HODLers' of these tokens can stake their INIX token on available pools to obtain rewards based on the regular APY. &#x20;
+* **Public Sales Option A**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to a 20% APY for the vesting period (12 months). As these tokens will be unlocked after the vesting period, these HODLers can stake their INIX token on available pools to obtain rewards based on the regular APR.&#x20;
+* **Public Sales Option B**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to a 15% APY for the vesting period (18 months). As these tokens will be unlocked after the vesting period, these HODLers can stake their INIX token on available pools to obtain rewards based on the regular APY. &#x20;
+* **Public Sales Option C**: since these tokens are not subject to any vesting period, the HODLers of these tokens can stake their INIX token on available pools to obtain rewards based on the regular APY. &#x20;
 
 ### Regular Staking APY
 
-The regular APY for Pre-Genesis period is 10%.&#x20;
+The regular APY for the Pre-Genesis period is 10%.&#x20;
 
 ### Staking Rewards Impact on Staking Rewards Pool
 
 Initium Foundation expects 60% of the unlocked tokens during the Pre-Genesis period to be staked for obtaining the rewards by the owners.&#x20;
 
-During the first year of the staking, a total amount of 17,650,000 INIX is estimated to be distributed among all staking HODLers as table below.&#x20;
+During the first year of the staking, a total amount of 19,150,000 INIX is estimated to be distributed among all staking HODLers as table below.&#x20;
 
-|                       |              |           |                |                     |
-| --------------------- | :----------: | :-------: | :------------: | :-----------------: |
-| Stakers               | Staking INIX |  APY/APR  | Rewards (INIX) | Total INIX Holdings |
-| Validators            |  20,000,000  |    20%    |    4,000,000   |     24,000,0000     |
-| Private Investors     |  45,000,000  |     9%    |    4,050,000   |    49,050,000,000   |
-| Public Sales Option A |  30,000,000  |    20%    |    6,000,000   |      36,000,000     |
-| Public Sales Option B |  30,000,000  |    20%    |    6,000,000   |      36,000,000     |
-| Public Sales Option C |   9,000,000  | 10% (APR) |     900,000    |      9,900,000      |
-| Total                 |  134,000,000 |           |   19,150,000   |     153,150,000     |
+|                       |              |     |                |                     |
+| --------------------- | :----------: | :-: | :------------: | :-----------------: |
+| Stakers               | Staking INIX | APY | Rewards (INIX) | Total INIX Holdings |
+| Validators            |  20,000,000  | 20% |    4,000,000   |     24,000,0000     |
+| Private Investors     |  45,000,000  |  5% |    2,250,000   |      47,250,000     |
+| Public Sales Option A |  30,000,000  | 20% |    6,000,000   |      36,000,000     |
+| Public Sales Option B |  30,000,000  | 20% |    6,000,000   |      36,000,000     |
+| Public Sales Option C |   9,000,000  | 10% |     900,000    |      9,900,000      |
+| Total                 |  134,000,000 |     |   19,150,000   |     153,150,000     |
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
 
 ### Validation Clients Rewards
 
