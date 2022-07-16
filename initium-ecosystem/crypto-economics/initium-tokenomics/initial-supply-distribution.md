@@ -54,7 +54,7 @@ It refers to the sales of the INIX token to the public. Anyone meeting [INIX Pub
 
 **Public Sales Option B**
 
-6% of the Initial supply equals 30,000,000 INIX at $0.65 with 18-month vesting. Public Sales Option B tokens will receive 15% APY for the locking period. The tokens later can be staked in the INIX staking pools to obtain the regular APY. The unsold tokens from the Public Sales Option B will be allocated to the Initium Foundation Reserves.
+6% of the Initial supply equals 30,000,000 INIX at $0.65 with 18-month vesting. Public Sales Option B tokens will receive 20% APY for the locking period. The tokens later can be staked in the INIX staking pools to obtain the regular APY. The unsold tokens from the Public Sales Option B will be allocated to the Initium Foundation Reserves.
 
 **Public Sales Option C**
 

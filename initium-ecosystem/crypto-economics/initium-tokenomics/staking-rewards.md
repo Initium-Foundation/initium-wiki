@@ -1,8 +1,44 @@
 # Staking Rewards
 
+### Introduction&#x20;
+
+The main channels of participant rewards remittances are reserves on the [Staking Rewards Pool](initial-supply-distribution.md#staking-rewards-pool), protocol-based rewards, and transaction fees. Protocol-based rewards are generated from inflationary issuances from a protocol-defined [inflation schedule](inflation-schedule.md).&#x20;
+
+n Initium's chronology, there are two periods for staking INIX tokens, including the Pre-Genesis and Post-Genesis periods.
+
+## Pre-Genesis Staking Rewards
+
+This period is between the end of Public Sales Options and the [Genesis Event](../teminology.md#genesis-event). During this period, the following INIX HODLers are eligible to receive the staking rewards:
+
+* **Private Sales' Investors**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to 5% APY during the vesting period.&#x20;
+* **Validators Staking Investors**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to 20% APY during the vesting period.&#x20;
+* **Public Sales Option A**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to a 20% APR for the vesting period (12 months). As these tokens will be unlocked after the vesting period, these HODLers can stake their INIX token on available pools to obtain rewards based on the regular APR.&#x20;
+* **Public Sales Option B**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to a 15% APR for the vesting period (18 months). As these tokens will be unlocked after the vesting period, these HODLers can stake their INIX token on available pools to obtain rewards based on the regular APR. &#x20;
+* **Public Sales Option C**: since these tokens are not subject to any vesting period, the HODLers' of these tokens can stake their INIX token on available pools to obtain rewards based on the regular APY. &#x20;
+
+### Regular Staking APY
+
+The regular APY for Pre-Genesis period is 10%.&#x20;
+
+### Staking Rewards Impact on Staking Rewards Pool
+
+Initium Foundation expects 60% of the unlocked tokens during the Pre-Genesis period to be staked for obtaining the rewards by the owners.&#x20;
+
+During the first year of the staking, a total amount of 17,650,000 INIX is estimated to be distributed among all staking HODLers as table below.&#x20;
+
+|                       |              |           |                |                     |
+| --------------------- | :----------: | :-------: | :------------: | :-----------------: |
+| Stakers               | Staking INIX |  APY/APR  | Rewards (INIX) | Total INIX Holdings |
+| Validators            |  20,000,000  |    20%    |    4,000,000   |     24,000,0000     |
+| Private Investors     |  45,000,000  |     9%    |    4,050,000   |    49,050,000,000   |
+| Public Sales Option A |  30,000,000  |    20%    |    6,000,000   |      36,000,000     |
+| Public Sales Option B |  30,000,000  |    20%    |    6,000,000   |      36,000,000     |
+| Public Sales Option C |   9,000,000  | 10% (APR) |     900,000    |      9,900,000      |
+| Total                 |  134,000,000 |           |   19,150,000   |     153,150,000     |
+
 ### Validation Clients Rewards
 
-The main channels of participant remittances are protocol-based rewards and transaction fees. Protocol-based rewards are generated from inflationary issuances from a protocol-defined inflation schedule. These rewards will constitute the total protocol-based reward delivered to validation clients, the remaining sourced from transaction fees.&#x20;
+These rewards will constitute the total protocol-based reward delivered to validation clients, the remaining sourced from transaction fees.&#x20;
 
 In the early days of the network, it is likely that protocol-based rewards, deployed based on a predefined issuance schedule, will drive the majority of participant incentives to participate in the network. These protocol-based rewards are calculated per epoch and distributed across the active delegated stake and validator set (per validator commission). As discussed further in this document, the per annum inflation rate is based on a pre-determined disinflationary schedule. That provides the network with supply predictability, supporting long-term economic stability and security.&#x20;
 
