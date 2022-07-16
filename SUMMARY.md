@@ -62,6 +62,8 @@
 * [Stakeholders](initium-ecosystem/stakeholders.md)
 * [Usecases](initium-ecosystem/usecases.md)
 * [Projects and Platforms](ecosystem/projects-and-platforms.md)
+* [Strategic Partnerships](ecosystem/strategic-partnerships.md)
+* [Merge and Aquisitions](ecosystem/merge-and-aquisitions.md)
 * [Roadmap](initium-ecosystem/roadmap.md)
 
 ## 🪙 Crypto Economics
@@ -116,3 +118,4 @@
 * [Contribution](appendix/contribution.md)
 * [Glossary of Terms](glossary-of-terms.md)
 * [Links and Resources](links-and-resources.md)
+* [ICO Terms & Conditions](appendix/ico-terms-and-conditions.md)

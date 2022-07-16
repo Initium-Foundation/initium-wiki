@@ -14,7 +14,7 @@ It's recommended to read [Terminology](../../teminology.md) for further informat
 
 The Initium community can use INIX in Pre-Genesis and Post-Genesis periods in various cases.&#x20;
 
-#### Pre-Genesis Usecases
+**Pre-Genesis Usecases**
 
 The proposed usecases for INIX during this period are (but are not limited to) as followings:
 
@@ -22,7 +22,7 @@ The proposed usecases for INIX during this period are (but are not limited to) a
 * Governance: the holders of INIX can contribute to the ecosystem governance by voting in DAOs.
 * Means of Payment: the holders of INIX can use it for the payment of goods/services on the partner platforms.
 
-#### Post-Genesis Usecases
+**Post-Genesis Usecases**
 
 During this period, the INIX will be migrated to the Initium blockchain. The proposed usecases for INIX during this period are (but are not limited to) as followings:
 
@@ -35,7 +35,7 @@ During this period, the INIX will be migrated to the Initium blockchain. The pro
 
 ### Inix Initial Supply&#x20;
 
-The initial supply of INIX is 500,000,000 (five hundred million) which will be generated during the official Token Generation Event ([INIX TGE](../../teminology.md#inix-tge)). The TGE will be announced officially by the Initium Foundation and the Initium community can acquire their INIX tokens during the INIX sales rounds or via the [Airdrops](../airdrops.md).&#x20;
+The initial supply of INIX is 500,000,000 (five hundred million), which will be generated during the official Token Generation Event (INIX TGE). The Initium Foundation will officially announce the TGE, and the Initium community can acquire INIX tokens during the INIX sales rounds or via the Airdrops.
 
 Since before launching the mainnet of the Initium network, INIX will be a multi-blockchain token, the functions of `mint` and `burn` in the smart contracts will ensure that the accumulated supply on all networks cannot exceed the [_Total Current Supply_](../../teminology.md#total-current-supply) of the token. &#x20;
 
