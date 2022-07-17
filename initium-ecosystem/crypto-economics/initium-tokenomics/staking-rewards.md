@@ -1,3 +1,7 @@
+---
+description: Subject to change.
+---
+
 # Staking Rewards
 
 ### Introduction&#x20;
@@ -54,55 +58,115 @@ Generally, there are two major participants for receiving staking rewards:
 
 ### Staking Methods&#x20;
 
-There will be two main staking methods for the Post-Genesis period, including:
+There will be three main staking methods for the Post-Genesis period, including:
 
-**Validator Staking Method**: everyone can run an Initium Validator by meeting the validator requirements.&#x20;
+**1) Validator Staking Method**
 
-###
+Everyone can run an Initium Validator by meeting the validator requirements. Validators receive a significant reward compared to the other participants as they secure the network.&#x20;
 
-###
+**2) Assisted Staking Method**&#x20;
 
-###
+The participants who cannot run a validator can stake their INIX tokens with the validators. Validators that provide these services need to have Certified Validator Badge from IVC. In this method, validators can offer various incentives to the participants for staking their INIX tokens. The assisted staking Method is profitable for both validators and participants since:
 
-### Validation Clients Rewards
+* Validators can increase their staked INIX to become more eligible for being elected as _Prime_ or _Supervisor_ of the clusters and receive more transactions to verify in a _Validator Squad_.
+* Participants can obtain more APY as their contributed validator obtains more rewards from the network.&#x20;
 
-These rewards will constitute the total protocol-based reward delivered to validation clients, the remaining sourced from transaction fees.&#x20;
+**3) Proxy Staking Method**
 
-In the early days of the network, it is likely that protocol-based rewards, deployed based on a predefined issuance schedule, will drive the majority of participant incentives to participate in the network. These protocol-based rewards are calculated per epoch and distributed across the active delegated stake and validator set (per validator commission). As discussed further in this document, the per annum inflation rate is based on a pre-determined disinflationary schedule. That provides the network with supply predictability, supporting long-term economic stability and security.&#x20;
+Decentralized and centralized cryptocurrency exchanges, wallets, and other staking service providers can offer their staking plans for INIX tokens. The providers of this staking method also need to run their validators to be eligible to obtain staking rewards.&#x20;
 
-Transaction fees are participant-to-participant transfers attached to network interactions as motivation and compensation for the inclusion and execution of a proposed transaction. A mechanism for long-term economic stability and forking protection through partial burning of each transaction fee is also discussed in this document.
+### Staking Rewards Pool
 
-### INITIUM HODLers Rewards
+All INIX staking rewards will be remitted from the Skating Rewards Pool. Based on the [INIX Inflation Distribution Plan](inflation-schedule.md), the new generated INIX by the Inflation Schedule will be distributed as follows:
 
-the main channels of the HODLers remittances are protocol-based rewards that are generated from the inflationary issuance from the protocol-defined inflation schedule. These rewards will be distributed among the wallets staked IOT coins on the partner platforms. Validator clients also can provide staking services to the HODLers. The staking service providers would receive 5% of the total rewards distributed among the staking HODLers.
+* Staking Rewards Pool: 70%
+* Initium Foundation: 15%
+* Initium Labs: 10%
+* Initium VC: 5%
 
-### Rewarding Periods
+This mechanism guarantees the sufficient INIX supply to the Staking Rewards Pool and distributes most of the Inflation Rate to the participants.&#x20;
 
-This document will discuss the rewards in three stages of the Initium network during three different periods as follows:
+### Staking Rewards Calculation
 
-#### 1) Pre-Genesis Rewards
+The staking rewards during the Post-Genesis period are calculated in each epoch (about 48 hours) and distributed to the participants after the related epoch. The frequent unstaking during the epoch will significantly decrease the obtaining of rewards by the participants.&#x20;
 
-This period is the period between the issuance of the INITIUM initial supply as a token and the launch of the mainnet of the Initium network. During this period, the HODLers of the INITIUM who participated in the public sales of the INITIUM token would receive an APY for staking their INITIUM on the partner staking platforms. For this, the snapshots from the wallets will be acquired by the staking providers, and the rewards will be distributed based on the average staking amount and the effective staking days.&#x20;
+The key factors in calculations of staking rewards are:
 
-The source of these rewards is the Rewards Pool Reserves (RPR) which is managed by the Initium Foundation. This reserve will be created during the [INITIUM TGE](../teminology.md#initium-tge) with the primary reserves of 30% of the [Initial Supply](../teminology.md#initial-supply) (estimated to be 150,000,000 IOT).&#x20;
+**1) % INIX Staked**
 
-#### 2) Genesis Rewards
+It refers to the ratio of total INIX staked by a given participant during an epoch to the [Total Current Supply](../teminology.md#total-current-supply). % INIX Staked is calculated as below:
 
-This period is the first year of the launch of the mainnet. Since this year, the validation clients will receive the rewards' inflationary issuance. The estimated inflation rate for the Genesis Year (Year 1 of the mainnet) is 10%. This amount will be split as follows (note that we have considered no changes in the Initial Supply):
+$$S = INIX_s / TCS_e$$
 
-|                         |            |                       |
-| ----------------------- | ---------- | --------------------- |
-| Receiver(s)             | Percentage | Est. Amount (INITIUM) |
-| Validators Rewards Pool | 40%        | 20,000,0000.00        |
-| Initium Foundation      | 10%        | 5,000,000.00          |
-| Staking Rewards Pool    | 40%        | 20,000,000.00         |
-| Dao Funds               | 10%        | 5,000,000.00          |
-| Total                   | 100%       | 50,000,000.00         |
+Where
 
-The **HOLDers** (excluding the validation clients) will receive their rewards from the Staking _Rewards Pool._ &#x20;
+* _S_= % INIX Staked
+* _INIXs_= the current staked INIX by the participant during the epoch
+* _TCSe_= the Total Current Supply during the epoch
 
-In the meantime, the validation clients will be incentivized with transaction fees and block rewards, which will be discussed further in this document. &#x20;
+**2) Epoch Effective Rewarding Rate**
 
-#### 3) Post-Genesis Rewards
+It refers to a measure for ensuring that a given participant's _S_ is reliable. If the participant frequently unstake/stake the INIX during the epoch, this rate will decrease or increase. Epoch Effective Rewarding Rate (_Er_) as below:
 
-This period starts in the second year of the mainnet (the year after the Genesis Year), by which the inflation rate of INITIUM will be reduced every year by 15%. This reduction will continue to tend the inflation rate to zero. During this period, the fee burning will be reduced to tend to zero, which gives more incentives for the validation clients to secure the network. In the meantime, block rewards during this period are subjected to halving, which tends to be zero for longer terms. This mechanism will be discussed further in this document. &#x20;
+![](<../../../.gitbook/assets/Screen Shot 2022-07-17 at 5.47.59 PM.png>)
+
+where:
+
+* _n_ is the number times of changes in _Si_
+* _Si is the value of S every time the S changes_
+* _i variers from 1 to n_
+
+Hint: if the participants change the _S_ five times (_n_) during an epoch, then the sum of all _S_ (_S1+S2+S3+S4+S5_) will be divided by five.&#x20;
+
+Effective Epoch
+
+The Effective Epoch (_e_) refers to the number of effective epochs during a calendar year. In the basic design of Initium, an epoch is valid for two days, however, this can be changed in network upgrades. Therefore, the Effective Epoch (_e_) is applied to determine the staking rewards for each epoch. The Effective Epoch (_e_) is calculated as below:
+
+$$
+e = T/d_e
+$$
+
+where&#x20;
+
+* _T_ is the amount of time during a calendar year in seconds
+* _de_ is the duration of an epoch in second
+
+The current reserves of INIX in the subpool during an epoch are represented as below:
+
+* _Rv_ which represents the current reserve of _Validators Rewards Subpool_, and
+* _Rp_ which represents the current reserve of _Proxy Rewards Subpool._
+
+By considering the above-mentioned variants, the staking rewards of participants will be calculated as followings:
+
+### **Rewards Calculation**&#x20;
+
+The following formula will be used to calculate the staking rewards for Staking Rewards **(S**_**r**_**)**
+
+$$
+Sr = E_r*R_v*e
+$$
+
+For example if:
+
+* a validator has initially staked 10,000 INIX
+* TCSs is 500,000,000 INIX
+* the validator has changed the stakings during the epoch three times as (1) 10,000 INIX, (2) 12,000, and (3) 5,000&#x20;
+* &#x20;the Rv is 70,000,000 INIX
+* and epoch is valid for 172,800 seconds (48 hours)
+
+then the validator estimated reward for the epoch is \~ 6.9 INIX. The estimated ROI of this validator is \~0.035 per day and 12.6% per year.&#x20;
+
+In this example, the rewards decreased because the validator's % Staked INIX (S) decreased, which affected its Epoch Effective Rewarding Rate during the epoch. However, suppose the validator can keep its Epoch Effective Rewarding Rate stable during this epoch. In that case, his rewards from the same period will increase to \~7.672 INIX, making its daily ROI \~0.0385% and its annual ROI 14%.&#x20;
+
+### Important Considerations&#x20;
+
+The staking rewards in Initium are designed to incentivize the participants to contribute to the network security by running their validators or assisting them in securing the network more.&#x20;
+
+The APY rate for the staking rewards will be dynamic in Initium and depends on various factors including:
+
+* The number of validators: the increasing number of validators can decrease the time of the epoch which can increase the ROI of all validators as it increases the effect of _e_ in the equation. This mechanism encourages the decentralization of the network by joining more validators to the network to secure it.&#x20;
+* The amount of staked INIX tokens: the increase in the staking rate of each participant will increase his APY in each epoch as it directly increases the effect of _Er_ in the equation.&#x20;
+* Since the Proxy Staking Method providers also need to run their validators or cooperate with Initium Certified Valitodors, staking via these providers will make the network more secure and increase the ROI of validators.
+* If in any case, the participants receive lower rewards in a given epoch, as the new tokens will be added to Staking Rewards Pool based on the Inflation Schedule, they can receive higher rewards in the next epoch.&#x20;
+* The participants can conduct various staking strategies to increase their rewards.&#x20;
+
