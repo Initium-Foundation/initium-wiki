@@ -1,6 +1,6 @@
 # Staking Rewards
 
-### _Estimated Staking Rewards for the Second Year. Source: INIX Whitepaper._ Introduction&#x20;
+### Introduction&#x20;
 
 The main channels of participant rewards remittances are reserves on the [Staking Rewards Pool](initial-supply-distribution.md#staking-rewards-pool), protocol-based rewards, and transaction fees. Protocol-based rewards are generated from inflationary issuances from a protocol-defined [inflation schedule](inflation-schedule.md).&#x20;
 
@@ -8,7 +8,7 @@ n Initium's chronology, there are two periods for staking INIX tokens, including
 
 ## Pre-Genesis Staking Rewards
 
-This period is between the end of Public Sales Options and the [Genesis Event](../teminology.md#genesis-event). During this period, the following INIX HODLers are eligible to receive the staking rewards:
+This period is between the end of Public Sales Options and the [Genesis Event](../teminology.md#genesis-event). The main channel of participants' rewards is the Staking Rewards Pool with basic reserves of 100,000,000 INIX allocated from the Initial Supply. During this period, the following INIX HODLers are eligible to receive the staking rewards:
 
 * **Private Sales' Investors**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to 5% APY during the vesting period.&#x20;
 * **Validators Staking Investors**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to 15% APY during the vesting period.&#x20;
@@ -24,7 +24,7 @@ The regular APY for the Pre-Genesis period is 10%.&#x20;
 
 Initium Foundation expects 60% of the unlocked tokens during the Pre-Genesis period to be staked for obtaining the rewards by the owners.&#x20;
 
-During the first year of the staking, a total amount of 18,150,000 INIX is estimated to be distributed among all staking HODLers as table below.&#x20;
+During the first year of the staking, \~18,150,000 INIX is estimated to be distributed among all staking HODLers, as shown in the table below.
 
 ![Estimated Staking Rewards for the First Year. Source: INIX Whitepaper. ](<../../../.gitbook/assets/Screen Shot 2022-07-17 at 11.43.56 AM.png>)
 
@@ -33,15 +33,30 @@ In the second year, the following assumptions are considered:
 * Tokens subject to Public Sales Option A are unlocked. The owners probably stake them with a 60% staking rate. We will consider them via tokens subject to Public Sales Option C as _Others_.
 * Tokens subject to Public Sales Option B will still be locked for six months and eligible to receive 20% APY for this period. After unlocking, the owners may stake them with a 60% staking rate to obtain the regular APY.
 
-In the second year, a total amount of 14,292,500 INIX is estimated to be distributed among all staking HODLers as table below.&#x20;
+In the second year, \~14,292,500 INIX is estimated to be distributed among all staking HODLers, as shown in the table below.
 
 ![Estimated Staking Rewards for the Second Year. Source: INIX Whitepaper. ](<../../../.gitbook/assets/Screen Shot 2022-07-17 at 12.41.41 PM.png>)
 
-In the third year, by assuming the 60% staking rate of tokens from Public Sales Options A, B, & C, it's estimated that 12,230,925 INIX to be distributed among all HODlers as table below.
+In the third year, by assuming the 60% staking rate of tokens from Public Sales Options A, B, & C, it's estimated that \~12,230,925 INIX to be distributed among all HODlers, as shown in the table below.
 
+![Estimated Staking Rewards for the Third Year. Source: INIX Whitepaper. ](<../../../.gitbook/assets/Screen Shot 2022-07-17 at 12.48.14 PM.png>)
 
+## Post-Genesis Staking Rewards
 
+By the [Genesis Event](../teminology.md#genesis-event) in the Initium network, the mechanism for the staking rewards will change since the rewards will become protocol-based and various factors will affect the obtained APY by the staking users.&#x20;
 
+During this period, all INIX coins in the ecosystem are eligible to be staked and obtain APY. The main channels of participant rewards remittances are the remained reserves from the [Staking Rewards Pool](initial-supply-distribution.md#staking-rewards-pool), protocol-based rewards (block rewards and new INIX released by the Inflation Schedule), and transaction fees.
+
+Generally, there are two major participants for receiving staking rewards:
+
+* **Validators**: these participants will receive staking rewards from the Staking Rewards Pool based on staked INIX, transaction fees (for the transactions they verify), block rewards (for the clusters they lead as Prime Node), and Supervision fees (from the Prime Nodes for the validator squads that they supervise).
+* **Staking HODLers (Stakers)**: these participants will receive staking rewards from the Staking Rewards Pool based on staked INIX.&#x20;
+
+### Staking Methods&#x20;
+
+There will be two main staking methods for the Post-Genesis period, including:
+
+**Validator Staking Method**: everyone can run an Initium Validator by meeting the validator requirements.&#x20;
 
 ###
 
