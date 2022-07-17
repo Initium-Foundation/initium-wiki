@@ -42,7 +42,7 @@ It refers to the sales of INIX tokens to private investors after Seed Funding Sa
 
 ### Validators Staking Sales
 
-It refers to the special sales round for sales of INIX tokens to the individuals or enterprises who will commit to running Initium Validators. The investors in this category will be eligible to receive the [Initium Licensed Validator](../../../initium-validator/validators-community.md) badge. These tokens will be used for staking on Initium Validators. 4% of the Initial supply equals 20,000,000 INIX is allocated to Validators Staking Sales. These tokens will be locked till the Genesis Event with 20% APY.&#x20;
+It refers to the special sales round for sales of INIX tokens to the individuals or enterprises who will commit to running Initium Validators. The investors in this category will be eligible to receive the [Initium Licensed Validator](../../../initium-validator/validators-community.md) badge. These tokens will be used for staking on Initium Validators. 4% of the Initial supply equals 20,000,000 INIX is allocated to Validators Staking Sales. These tokens will be locked till the Genesis Event with 15% APY.&#x20;
 
 ### Public Sales Options
 
