@@ -68,3 +68,6 @@ The founder team of Initium, including the advisors, will hold 5% of the Initial
 
 It refers to the tokens allocated for rewarding the INIX HODLers who stake their tokens, or their tokens are subject to vesting time rewards (including private investors, Validators Staking Sales, and Publis Sales Option A & B). 20% of th_e Initial Supply_ equals with 100,000,000 INIX is allocated to the Staking Rewards Pool. For more information, you may read [staking-rewards.md](staking-rewards.md "mention").&#x20;
 
+### Post-Genesis Supply&#x20;
+
+As mentioned before, INIX is a minable coin with a hardcap of 1,130,720,000 INIX. It means that validators will generate more than 55.78% total supply of INIX after the Genesis Event. For more information, you may read [inflation-schedule.md](inflation-schedule.md "mention").

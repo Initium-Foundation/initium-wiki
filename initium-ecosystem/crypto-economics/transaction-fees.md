@@ -54,7 +54,7 @@ Transaction fees are set by the network cluster based on recent historical throu
 
 However, Initium will benefit from the _Congestion Driven Fee_ model. In the Congestion Driven Fee model, each validator uses _signatures per slot_ (SPS) to estimate network congestion and _SPS target_ to estimate the desired processing capacity of the cluster. The validator learns the SPS target from the genesis config, whereas it calculates SPS from recently processed transactions.&#x20;
 
-The genesis config also defines a target `nip_per_signature`, which is the fee to charge per signature when the cluster is operating at _SPS target_. The client uses the JSON RPC API to query the cluster for the current fee parameters. Those parameters are tagged with a blockhash and remain valid until that blockhash is old enough to be rejected by the slot Prime Node.
+The genesis config also defines a target `lepton_per_signature`, which is the fee to charge per signature when the cluster is operating at _SPS target_. The client uses the JSON RPC API to query the cluster for the current fee parameters. Those parameters are tagged with a blockhash and remain valid until that blockhash is old enough to be rejected by the slot Prime Node.
 
 Before sending a transaction to the cluster, a client may submit the transaction and fee account data to an SDK module called the _fee calculator_. So long as the client's SDK version matches the version of the slot prime, the client is assured that its account will be charged exactly the same number of nip as returned by the fee calculator.
 
