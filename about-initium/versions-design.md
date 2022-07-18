@@ -28,7 +28,7 @@ Initium Inanis is currently based on Rust language, however, the Initium Foundat
 
 ### Initium Primus&#x20;
 
-Primus is a Latin word that means "the Rising." Initium version Primus is considered to be the Testnet version of Initium. This version will be developed when the Inanis development, testing, and bug fixing accomplish successfully.&#x20;
+Primus is a Latin word that means "the Rising." Initium version Primus is considered to be the Testnet version of Initium. This version will be developed when the Inanis development, testing, and bug fixing accomplish.&#x20;
 
 Initium Primus enables the developers to deploy their applications and smart contracts on Initium Testnet. Calibra will be the name of the first testnet of Initium. Like Ethereum, the Initium Foundation plans to provide the developers with various testnets which means the development of testnets will be an ongoing project among the Initium developer teams.&#x20;
 
@@ -38,6 +38,4 @@ The whitepaper of Initium Primus will be available upon its complication by the 
 
 ### Initium Genesis
 
-Genesis is the live version of the Initium network which makes it accessible for all users and network participants to benefit from the Initium blockchain ecosystem. The launch of the Initium Genesis will be with the mining of the genesis block of the Initium and the official coin generation event of Initium.&#x20;
-
-"Orion" will be the name of the Initium mainnet that enables an end-to-end collaboration between the network participants, including the validators, pools, nodes, etc.&#x20;
+Genesis is the live version of the Initium network, which makes it accessible for all users and network participants to benefit from the Initium blockchain ecosystem. The launch of the Initium Genesis will be with the mining of the genesis block of the Initium and the official coin generation event of Initium.

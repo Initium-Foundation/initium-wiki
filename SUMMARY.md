@@ -10,6 +10,8 @@
 * [Network Design](about-initium/network-design.md)
 * [Constitution](about-initium/constitution.md)
 * [Covenant Consensus](about-initium/covenant-consensus.md)
+* [Feodis Fee Model](about-initium/feodis-fee-model.md)
+* [Initium Networks](about-initium/initium-networks.md)
 * [Versions Design](about-initium/versions-design.md)
 * [Initium DAOs](about-initium/initium-daos.md)
 * [Native Organization](about-initium/native-organization.md)
