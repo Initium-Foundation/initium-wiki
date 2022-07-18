@@ -45,4 +45,4 @@ After the [Genesis Event](../../teminology.md#genesis-event), the Initium Bridge
 
 ### INIX Hardcap
 
-INIX has a hardcap (maximum supply) of 1,130,720,000 INIX. The [Inflation Schedule](../inflation-schedule.md) explains that the Initium network will reach this hardcap by mining new INIX coins 123 years after the Genesis Event.
+INIX has a hardcap (maximum supply) of 1,130,720,000 INIX. The [Inflation Schedule](../inflation-schedule.md) explains that the Initium network will reach this hardcap by mining new INIX coins 44 years after the Genesis Event.

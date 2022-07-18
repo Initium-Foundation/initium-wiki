@@ -6,11 +6,11 @@ description: >-
 
 # Inflation Schedule
 
-### Introduction&#x20;
+### PIntroduction&#x20;
 
 This article will review the Inflation Schedule of Initium protocol and its impact on INIX inflation.
 
-The Inflation Schedule is a protocol-based mechanism for increasing the Total Current Supply of INIX. This mechanism determined the block rewards for every cycle. Each cycle lasts for four years, and the Halving of block rewards will immediately be followed.&#x20;
+The Inflation Schedule is a protocol-based mechanism for increasing the Total Current Supply of INIX. This mechanism determined the block rewards for every cycle. Each cycle lasts for four years, and the _Halving_ of block rewards will immediately be followed.&#x20;
 
 The Inflation Schedule is a permanent _Regula_ in the Initium Constitution and guarantees that the maximum supply of Initium will not pass the predetermined hardcap of 1,130,720,000 INIX.&#x20;
 
@@ -18,82 +18,46 @@ As mentioned before, the inflation rate of the INIX is subjected to various fact
 
 At the INIX TGE, there will be 500,000,000 INIX as the Initial Supply which will be distributed according to the [Initium Tokenomics](../../../ecosystem/table-of-contents.md). This supply will be considered as the [Total Current Supply](../teminology.md#total-current-supply) of INIX.&#x20;
 
-### The Inflation Rates
+### Inflation Schedule Mechanism
 
-The inflation rate during the Pre-Genesis Year is zero, and the network will not create any new token. As mentioned earlier, the HODLers can benefit from staking rewards during this period.&#x20;
+The main parameter in the Inflation Schedule is the block rewards during a cycle. As mentioned above, each cycle lasts for four years. Each cycle has its _Regula_ for block rewards.&#x20;
 
-The Genesis Year inflation rate is 10% which will add 50,000,000 new coins to the circulating supply by the end of the year. However, the [Fee Burning Mechanism](../transaction-fees.md) will burn 50% of any transaction for the first four years. Although the transaction fees are too small on the INITIUM (by 0.00005 INITIUM per TX), however, the partial fee burning will be very effective for dis-inflation of the INITIUM. By considering 40,000 TXP on the Initium mainnet, the estimated total of 1,261,440,000,000 transactions can take place annually on the Initium network by the total transaction fees of 6,307,200 INITIUM per year. It means that in the first four years of the launching of the mainnet, the total amount of 12,614,400 INITIUM will be burned. For further details, you may read the [Transaction Fees](../transaction-fees.md).&#x20;
+The first cycle begins with the Genesis Event, by which the block reward is set at 1 INIX. The new cycle will begin every four years, and the _Halving_ of block rewards will immediately be followed. This mechanism will continue until the 10th cycle after the Genesis Event. Since the block rewards cannot be smaller than allowed lepton decimals (9 decimals), the _Halving_ mechanism will halt at the 11th cycle, and the block reward in this cycle will be as same as the 10th cycle. By end of the 11th cycle (44 years after the Genesis Event), the final leptons will be mined, and the Initium network reaches the predetermined hardcap of 1,130,720,000 INIX.
 
-The fee burning mechanism will reduce the fee burning every four years cycle by 15%, and after 36 years, there will be no fee burnings.&#x20;
+Initium block time is 0.4 seconds, which means 24 new blocks will be generated every minute.&#x20;
 
-In the second year (one year after Genesis Year), the dis-inflation mechanism will reduce the inflation rate by 15% every year. The inflation rate will continue to dis-inflate and will be zero in the 36 years.&#x20;
+|             |                     |                    |                       |
+| ----------- | :-----------------: | :----------------: | :-------------------: |
+| Period      | Block Reward (INIX) | Total Block Reward | Ending Current Supply |
+| Pre-Genesis |          0          |          0         |      500,000,000      |
+| Cycle 1     |          1          |     315,360,000    |      815,360,000      |
+| Cycle 2     |         0.50        |     157,680,000    |      973,040,000      |
+| Cycle 3     |         0.25        |     78,840,000     |     1,051,880,000     |
+| Cycle 4     |        0.125        |     39,420,000     |     1,091,300,000     |
+| Cycle 5     |        0.0625       |     19,710,000     |     1,111,010,000     |
+| Cycle 6     |       0.03125       |      9,855,000     |     1,120,865,000     |
+| Cycle 7     |       0.015625      |      4,927,500     |     1,125,792,500     |
+| Cycle 8     |      0.0078125      |      2,463,750     |       1128256250      |
+| Cyccle 9    |      0.00390625     |      1,231,875     |       1129488125      |
+| Cycle 10    |     0.001953125     |     615,937.50     |     1130104062.50     |
+| Cycle 11    |     0.001953125     |     615,937.50     |     1,130,720,000     |
+| Cycle 12    |          0          |          0         |     1,130,720,000     |
 
-![Figure 1. The inflation rate of INITIUM by year.](<../../../.gitbook/assets/Screen Shot 2022-07-06 at 9.31.17 PM.png>)
+### Distribution of Block Rewards
 
-### Block Rewards and Inflation&#x20;
+The block rewards are the main source of inflation in the Initium network. The following mechanism will be implemented for the distribution of each block reward. &#x20;
 
-As mentioned earlier, the Initium protocol is subjected to the block reward. By considering the blocktime of Initium by 0.4 of a second, every year, 78,840,000 new blocks will be added to the network.&#x20;
+* **Staking Rewards Pool**: 90% of the block rewards will be allocated to the Staking Rewards Pool to be distributed among the validators and staking participants.&#x20;
+* **Initium Foundation**: 10% of the block rewards will be allocated to the Initium Foundation for supporting the ecosystem activities and the [native organizations](../../../about-initium/native-organization.md).&#x20;
 
-Block reward is an important intensive for the validators to be always online and make the Initium network even more secure.&#x20;
+**The Effective Inflation Rate**
 
-Block reward is subjected to the _halving_ mechanism by which the block reward will be reduced by 50% every four years. The halving mechanism will continue to make the block reward zero in 36 years.&#x20;
+The inflation rate in the Initium network tends to zero by the end of the 11th cycle. In the first year, the effective inflation rate is \~15.77% which continues in the second year at 13.62%, the third year at 11.99%, and the fourth year at 10.70%.&#x20;
 
-Since the Genesis block on the Initium network, the block reward will be 1 INITIUM per block which will be rewarded to the Prime Node of every block. Figure 2 illustrates the halving impact on the total added amount of INITIUM to the ecosystem.&#x20;
+However, by the initiation of the second cycle, the inflation rate dramatically decreases to 4.83% and will be reduced 4.22% in the last year of this cycle.&#x20;
 
-![Figure 2. Halving in the Initium network.](<../../../.gitbook/assets/Screen Shot 2022-07-06 at 9.50.07 PM.png>)
+In the third cycle, the inflation rate is around 2.03% and will be reduced to 1.91% in the last year of the cycle. In the fourth cycle, the inflation rate starts at 0.94% and will be reduced to 0.91% in the last year of this cycle. In the fifth cycle, the inflation rate starts at \~0.45% and will be keept roughly around 0.45%.
 
-### The Effective Inflation Rate
+The chart below, illustrate the effective inflation rate during the 11 cycles.&#x20;
 
-By considering all of the above-mentioned factors, the Effective Inflation Rate (EIR) of the INITIUM can be summarized by the table below.
-
-![Figure 3. INITIUM inflation table. ](<../../../.gitbook/assets/Screen Shot 2022-07-07 at 1.45.15 PM.png>)
-
-As illustrated in Figure 3, the _Effective Inflation Rate_ tends to be below 1% after 17 years, and the estimated Maximum Supply of the INITIUM would be around **1,739,581,608**. It's important to note that this amount would be changed by some internal factors including the number of actual transactions per block (higher or lower than the estimated amount of transactions), the token burn by the users, etc.
-
-![Figure 4. The Effective Inflation Rate of INITIUM from the Genesis Year. ](<../../../.gitbook/assets/Screen Shot 2022-07-07 at 1.57.25 PM.png>)
-
-As illustrated in Figure 4, the Effective Inflation Rate of INITIUM will sharply decline from the second year and will tend to be below 1% after 17 years and finally will be zero in the year 36.&#x20;
-
-### Inflation Distribution&#x20;
-
-The suggested Inflation Schedule in this proposal is highly effective to encourage both validators and users. This proposal is supported by high incentives for both validators and users to stake their INITIUM coins to receive the rewards.&#x20;
-
-Based on the Inflation Distribution Plan, the new coins generated by the inflation schedule will be distributed as follows:
-
-* Validators Reward Pool: 40%
-* Staking Rewards Pool: 40%
-* Initium Foundation (Reserves): 10%
-* DAO Funds: 10%&#x20;
-
-_**Validators**_: The validators' rewards will be aggregated in the _Validators Reward Pool_ and will be distributed among the validators according to the factors including their uptime and contribution to the network. The total staked INITIUM by a given validator also is a critical factor for calculating their share from the inflation. This factor is considered as % Staked INITIUM which is calculated as below:
-
-_% INITIUM Staked= Validator INITIUM Staked  ​/ Total INITIUM Staked by Validators_
-
-A given validator with 100% uptime will receive 100% of its rewards, however, a validator with 50% uptime will receive 50% of its rewards.&#x20;
-
-In the meantime, validators with higher INITIUM Staked have a higher share of the _Validators Rewards Pool._ This mechanism encourages the validators to 1) keep their nodes always uptime to secure the network and  2) stake more INITIUM to increase their pool share.&#x20;
-
-This is important to note that in the validators' staking rewards are calculated annually and can be claimed annually. Frequent staking and unstaking will affect their effective % INITIUM Staked.&#x20;
-
-_**HODLers**_: The HODLers who stake their INITIUM will receive their staking rewards from the _Staking Rewards Pool._ In this case, their % INITIUM Staked will be calculated as below:&#x20;
-
-_% INITIUM Staked=  INITIUM Staked  ​/ Current Total Supply_&#x20;
-
-The rewards from the _Staking Rewards Pool_ can be claimed daily, however, frequent staking and unstaking will affect their effective % INITIUM Staked.&#x20;
-
-> **The INITIUM staking via validators can be more profitable for the HODLers since the validators have a higher ROI on their staking pools. This mechanism also will encourage the exchanges, staking service providers, and individual investors to run Initium validators by receiving support from the INITIUM HODLers, which results in a more secure network.**&#x20;
->
-> _****_
-
-_**Initium Foundation**_: As mentioned earlier, 10% of the new coins generated by the Inflation Schedule will be distributed to the Initium Foundation. These funds will be used by the foundation for promoting the Initium ecosystem, operational expenses, marketing, training, and community works. The Initium Foundation will publish its annual reports about the use of funds and the activities to provide the Initium community with the expected transparency.&#x20;
-
-_**DAO Funds**_: As mentioned earlier, 10% of the new coins generated by the Inflation Schedule will be distributed to the Initium DAO. These funds will be used by the DAO for supporting new projects on the initium network. The allocation of funds will be based on the votes of the DAO members, and the Initium Foundation will supervise the use of funds by the projects to make sure that the allocated funds are used in the right way.&#x20;
-
-
-
-
-
-
-
-
-
+![Inflation Schedule on INIX. Source: INIX Whitepaper.](<../../../.gitbook/assets/Screen Shot 2022-07-18 at 5.12.46 PM.png>)

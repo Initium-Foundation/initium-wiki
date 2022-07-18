@@ -51,7 +51,7 @@ By the [Genesis Event](../teminology.md#genesis-event) in the Initium network, t
 
 During this period, all INIX coins in the ecosystem are eligible to be staked and obtain APY. The main channels of participant rewards remittances are the remained reserves from the [Staking Rewards Pool](initial-supply-distribution.md#staking-rewards-pool), protocol-based rewards, and transaction fees.&#x20;
 
-* Block Rewards: creating new blocks results in generating new INIX coins. 50% of the block rewards will be sent to the Staking Rewards Pool.
+* Block Rewards: creating new blocks results in generating new INIX coins. 90% of the block rewards will be sent to the Staking Rewards Pool.
 * Transaction Fees: 50% of the transaction fees will be added to the Staking Rewards Pool.&#x20;
 
 This mechanism creates a fair distribution of protocol-based rewards and transaction fees among the network participants.
@@ -159,7 +159,7 @@ The staking rewards in Initium are designed to incentivize the participants to c
 
 The APY rate for the staking rewards will be dynamic in Initium and depends on various factors including:
 
-* **Block Rewards**: the Inflation Schedule mechanism will decrease the block rewards. This process is called _Halving_, by which the block reward will be reduced by 50% during every four years cycle. This way, the block rewards will be zero after 122 years.
+* **Block Rewards**: the Inflation Schedule mechanism will decrease the block rewards. This process is called _Halving_, by which the block reward will be reduced by 50% during every four years cycle. This way, the block rewards will be zero after 44 years.
 * **Transactions**: since 50% of the transaction fees are allocated to the Staking Rewards Pool, increasing the number of transactions per block would directly increase the staking rewards. Initium can handle several thousand transactions per second and can be improved by implementing new protocol upgrades.
 * **Fee Structure**: at the time of writing this article, the Initium fee structure is based on a fixed fee structure and as low as 5000 leptons. However, it's proposed to implement the _Congestion Driven Fee_ model which can dynamically set the transaction fee based on its complexity. The Initium community also can decide on transaction fees to provide more incentives to the participants.&#x20;
 * **The number of validators**: the increasing number of validators can decrease the time of the epoch which can increase the ROI of all validators as it increases the effect of _e_ in the equation. This mechanism encourages the decentralization of the network by joining more validators to the network to secure it.&#x20;

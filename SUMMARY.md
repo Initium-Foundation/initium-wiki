@@ -8,6 +8,7 @@
 * [Introduction to Initium](about-initium/introduction-to-initium.md)
 * [Technology](about-initium/technology.md)
 * [Network Design](about-initium/network-design.md)
+* [Constitution](about-initium/constitution.md)
 * [Covenant Consensus](about-initium/covenant-consensus.md)
 * [Versions Design](about-initium/versions-design.md)
 * [Initium DAOs](about-initium/initium-daos.md)
