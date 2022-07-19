@@ -1,10 +1,10 @@
-# Evander
+# Vertex
 
-### What is Evander?
+### What is the Vertex?
 
-In Initium standards, Evander is a terminology to refer to Initium Native recipe. A recipe is a group of crafts that execute instructions. Evander is required to run validator nodes. Unlike third-party crafts, the Evander crafts are part of the validator implementation and can be upgraded as part of cluster upgrades. Upgrades may occur to add features, fix bugs, or improve performance. Interface changes to individual instructions should rarely, if ever, happen. Instead, when change is needed, new instructions are added, and previous ones are marked deprecated. Apps can upgrade on their timeline without concern of breakages across upgrades. Each Evander craft has its own craft id and a description for each supported instruction. A transaction can mix and match instructions from different crafts and include instructions from on-chain crafts.
+In Initium standards, Vertex refers to Initium Native recipe. A recipe is a group of crafts that execute instructions. Vertex is required to run validator nodes. Unlike third-party crafts, the Vertex crafts are part of the validator implementation and can be upgraded as part of cluster upgrades. Upgrades may occur to add features, fix bugs, or improve performance. Interface changes to individual instructions should rarely, if ever, happen. Instead, when change is needed, new instructions are added, and previous ones are marked deprecated. Apps can upgrade on their timeline without concern of breakages across upgrades. Each vertex craft has its own craft id and a description for each supported instruction. A transaction can mix and match instructions from different crafts and include instructions from on-chain crafts.
 
-The crafts of Evander are defined as follows:
+The crafts of Vertex are defined as follows:
 
 ### Codex Craft
 
