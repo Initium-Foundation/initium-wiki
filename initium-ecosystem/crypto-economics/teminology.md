@@ -147,7 +147,7 @@ In [Initium Chronology](teminology.md#initium-chronology), it refers to the peri
 
 ### RedWarp
 
-Refers to the [Initium Bridge](teminology.md#initium-bridge). See [RedWap](../../wallet-guide/redwrap.md).&#x20;
+Refers to the [Initium Bridge](teminology.md#initium-bridge). See [RedWap](broken-reference).&#x20;
 
 ### Stakeholders
 

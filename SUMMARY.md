@@ -91,9 +91,11 @@
 * [Vertex](native-apps/vertex.md)
 * [CraftBook](native-apps/craftbook.md)
 * [Initium SDK](native-apps/initium-sdk.md)
+* [Evander](native-apps/evander.md)
 * [Lynx](native-apps/lynx.md)
+* [Sage](native-apps/sage.md)
 * [Pyxis](native-apps/pyxis.md)
-* [Castor](native-apps/castor.md)
+* [RedWrap](native-apps/redwrap.md)
 * [Argonaut](native-apps/argonaut.md)
 * [InitiumJs](native-apps/initiumjs.md)
 
@@ -114,7 +116,6 @@
   * [BEP-20 Wallets](wallet-guide/inix-token-wallets/bep-20-wallets.md)
   * [Polygon Wallets](wallet-guide/inix-token-wallets/polygon-wallets.md)
   * [ARC-20 Wallets](wallet-guide/inix-token-wallets/arc-20-wallets.md)
-* [RedWrap](wallet-guide/redwrap.md)
 
 ## 🏛 Initium DAOs <a href="#dao" id="dao"></a>
 

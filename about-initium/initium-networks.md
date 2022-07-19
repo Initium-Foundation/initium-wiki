@@ -3,8 +3,9 @@
 Initium blockchain contains different networks. Each network is designed for different purposes to extend the employment of Initium technology. The proposed networks for Initium Genesis are:
 
 * [Hadron](initium-networks.md#hadron-network)&#x20;
+* [Castor](initium-networks.md#hadron-network-1)
 * [Fornax](initium-networks.md#fornax)&#x20;
-* [Lynx](initium-networks.md#lynx)
+* [Lynx](initium-networks.md#lynx-network)
 * [Orion](initium-networks.md#orion)
 
 All validators in the Initium blockchain should support all networks to be eligible for joining a validator squad.&#x20;
@@ -15,11 +16,17 @@ Hadron network is the mainnet of Initium for launching applications, smart contr
 
 Hadron network will be available by Genesis Event at https://hadron.initium.network
 
+### Castor Network
+
+Castor network is the parallel mainnet of Initium for launching applications, smart contracts, and tokens compatible with Ethereum Virtual Machine (EVM) on the Initium blockchain. The Initium validator will run this network in parallel with the Hadron network. This network relies on the Hadron network for confirmation of transactions. Using the Castor network, the projects running on  Ethereum-like blockchains (e.g. Polygone, BSC, etc.) can easily integrate with Initium and benefit from its liquidity, scalability, and security.&#x20;
+
+Castor network will be available by Genesis Event at https://castor.initium.network.
+
 ### Fornax Network
 
 Fornax network is the Devnet of Initium. It's a playground for those looking to experience the protocol as a blockchain user, token holder, app developer, or network validator. Fornax network will have the INIX Faucet, which the users can obtain virtual INIX for testing their applications and smart contracts before launching on the Hadron network.
 
-Hadron network will be available by Genesis Event at https://fornax.initium.network
+Hadron network will be available by Genesis Event at https://fornax.initium.network.
 
 ### Lynx Network
 

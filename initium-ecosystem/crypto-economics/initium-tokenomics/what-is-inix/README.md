@@ -39,7 +39,7 @@ The initial supply of INIX is 500,000,000 (five hundred million), which will be 
 
 Since before launching the mainnet of the Initium network, INIX will be a multi-blockchain token, the functions of `mint` and `burn` in the smart contracts will ensure that the accumulated supply on all networks cannot exceed the [_Total Current Supply_](../../teminology.md#total-current-supply) of the token. &#x20;
 
-The owners of INIX can migrate their tokens from one blockchain to another using the Initium Bridge ([RedWrap](../../../../wallet-guide/redwrap.md)). For this, the INIX token on a network of origin (e.g., Ethereum) will be burned by the burn function and then minted by the INIX token contract on the destination network (e.g., Binance Chain).&#x20;
+The owners of INIX can migrate their tokens from one blockchain to another using the Initium Bridge ([RedWrap](broken-reference)). For this, the INIX token on a network of origin (e.g., Ethereum) will be burned by the burn function and then minted by the INIX token contract on the destination network (e.g., Binance Chain).&#x20;
 
 After the [Genesis Event](../../teminology.md#genesis-event), the Initium Bridge will enable the users to wrap the various types of coins and tokens from different blockchain networks into the Initium network. This enables the users to use the INIX in the DeFi platform on the other blockchain networks and increase the circulating and the demand for the INIX.
 
