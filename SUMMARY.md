@@ -88,7 +88,14 @@
 ## 💡 Initium Native Apps <a href="#native-apps" id="native-apps"></a>
 
 * [Introduction](platforms/introduction.md)
-* [Projects](platforms/initium-native-apps.md)
+* [Evander](native-apps/evander.md)
+* [CraftBook](native-apps/craftbook.md)
+* [Initium SDK](native-apps/initium-sdk.md)
+* [Lynx](native-apps/lynx.md)
+* [Pyxis](native-apps/pyxis.md)
+* [Castor](native-apps/castor.md)
+* [Argonaut](native-apps/argonaut.md)
+* [InitiumJs](native-apps/initiumjs.md)
 
 ## 🏭 Ecosystem Projects
 

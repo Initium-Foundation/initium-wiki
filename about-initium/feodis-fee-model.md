@@ -1,8 +1,8 @@
 # Feodis Fee Model
 
-Normally, networks like Ethereum transactions include a fee field that indicates the maximum fee field a slot leader is permitted to charge for processing a transaction. The cluster, on the other hand, agrees on a minimum fee. If the network is congested, the slot leader may prioritize the transactions offering higher fees. That means the client won't know how much was collected until the transaction is confirmed by the cluster and the remaining balance is checked. This is what we would see in networks like Ethereum which results in unexpected higher gas fees.&#x20;
+Usually, networks like Ethereum transactions include a fee field that indicates the maximum fee field a slot leader is permitted to charge for processing a transaction. The cluster, on the other hand, agrees on a minimum fee. If the network is congested, the slot leader may prioritize the transactions offering higher fees. That means the client won't know how much was collected until the cluster confirms the transaction and the remaining balance is checked. This mechanism would result in unexpected higher gas fees.
 
-Feodis Fee Model
+**Feodis Fee Model**
 
 Initium will benefit from an innovative congestion-driven fee model called _Feodis_. In the Feodis fee model, each validator uses _signatures per slot_ (SPS) to estimate network congestion and _SPS target_ to estimate the desired processing capacity of the cluster. The validator learns the SPS target from the genesis config, whereas it calculates SPS from recently processed transactions.&#x20;
 
