@@ -85,19 +85,17 @@
 * [Transaction Fees](initium-ecosystem/crypto-economics/transaction-fees.md)
 * [Use of Funds](initium-ecosystem/crypto-economics/use-of-funds.md)
 
-## 💡 Initium Native Apps <a href="#native-apps" id="native-apps"></a>
+## 💡 Initium Native Crafts <a href="#native-crafts" id="native-crafts"></a>
 
-* [Introduction](platforms/introduction.md)
-* [Vertex](native-apps/vertex.md)
-* [CraftBook](native-apps/craftbook.md)
-* [Initium SDK](native-apps/initium-sdk.md)
-* [Evander](native-apps/evander.md)
-* [Lynx](native-apps/lynx.md)
-* [Sage](native-apps/sage.md)
-* [Pyxis](native-apps/pyxis.md)
-* [RedWrap](native-apps/redwrap.md)
-* [Argonaut](native-apps/argonaut.md)
-* [InitiumJs](native-apps/initiumjs.md)
+* [Introduction](native-crafts/introduction.md)
+* [Vertex](native-crafts/vertex.md)
+* [CraftBook](native-crafts/craftbook.md)
+* [Initium SDK](native-crafts/initium-sdk.md)
+* [Evander](native-crafts/evander.md)
+* [Lynx](native-crafts/lynx.md)
+* [Sage](native-crafts/sage.md)
+* [RedWrap](native-crafts/redwrap.md)
+* [Voltus](native-crafts/voltus.md)
 
 ## 🏭 Ecosystem Projects
 
@@ -127,6 +125,6 @@
 ## 🖇 Appendixes <a href="#appendix" id="appendix"></a>
 
 * [Contribution](appendix/contribution.md)
-* [Glossary of Terms](glossary-of-terms.md)
 * [Links and Resources](links-and-resources.md)
 * [ICO Terms & Conditions](appendix/ico-terms-and-conditions.md)
+* [Glossary of Terms](glossary-of-terms.md)

@@ -95,7 +95,7 @@ Refers to the supply of the tokens generated during the[ INIX TGE](teminology.md
 
 ### INITIUM
 
-INITIUM is the [native token](teminology.md#native-token) of the [Initium](teminology.md#initium-1). Before launching the mainnet of the [Initium](teminology.md#initium-1), INITIUM will be in the form of tokens on various blockchain networks including Ethereum, BSC, Polygon, etc. See [INIX](teminology.md#inix).&#x20;
+INITIUM is the [native token](teminology.md#native-token) of the [Initium](teminology.md#initium-1). Before launching the mainnet of the [Initium](teminology.md#initium-1), INITIUM will be in the form of tokens on various blockchain networks, including Ethereum, BSC, Polygon, etc. See [INIX](teminology.md#inix).&#x20;
 
 ### Initium&#x20;
 
@@ -111,7 +111,7 @@ It refers to the different eras in the Initium ecosystem lifecycle. There are th
 
 ### Initium Genesis
 
-Refers to the main version of the [Initium](teminology.md#initium-1) by which, the mainnet of the Initium blockchain will be launched. See [Versions Design](../../about-initium/versions-design.md).&#x20;
+Refers to the main version of the [Initium](teminology.md#initium-1) by which the mainnet of the Initium blockchain will be launched. See [Versions Design](../../about-initium/versions-design.md).&#x20;
 
 ### INIX
 
@@ -127,7 +127,7 @@ Refers to the distribution plan of the [initial supply](teminology.md#initial-su
 
 ### INIX TGE
 
-Refers to the Token Generation Event of the token, by which, the [initial supply](teminology.md#initial-supply) of the [INIX](teminology.md#inix) will be generated and distributed among the owners.&#x20;
+Refers to the Token Generation Event of the token, by which the [initial supply](teminology.md#initial-supply) of the [INIX](teminology.md#inix) will be generated and distributed among the owners.&#x20;
 
 ### Native Coin
 
@@ -151,8 +151,8 @@ Refers to the [Initium Bridge](teminology.md#initium-bridge). See [RedWap](broke
 
 ### Stakeholders
 
-Refers to the individuals, teams, projects, platforms, validators, institutions, and organizations who contribute to the Initium ecosystem. See [Ecosystem Stakeholders](teminology.md#stakeholders).&#x20;
+Refers to the individuals, teams, projects, platforms, validators, institutions, and organizations contributing to the Initium ecosystem. See [Ecosystem Stakeholders](teminology.md#stakeholders).&#x20;
 
 ### Total Current Supply
 
-The total amount of [INIX](teminology.md#inix) tokens (locked or unlocked) that have been generated (via [genesis block](teminology.md#genesis-block) or [Inflation Schedule](teminology.md#inflation-schedule)) minus any tokens that have been burnt (via transaction fees or other mechanisms) or slashed. At the network launch, 500,000,000 [INIX](teminology.md#inix) will be instantiated in the [genesis block](teminology.md#genesis-block). Since then the Total Current Supply will be reduced by the partial burning of transaction fees and planned token reduction events. See [Inflation Schedule](teminology.md#inflation-schedule).&#x20;
+The total amount of [INIX](teminology.md#inix) tokens (locked or unlocked) that have been generated (via [genesis block](teminology.md#genesis-block) or [Inflation Schedule](teminology.md#inflation-schedule)) minus any tokens that have been burnt (via transaction fees or other mechanisms) or slashed. At the network launch, 500,000,000 [INIX](teminology.md#inix) will be instantiated in the [genesis block](teminology.md#genesis-block). Since then, the Total Current Supply will be reduced by the partial burning of transaction fees and planned token reduction events. See [Inflation Schedule](teminology.md#inflation-schedule).&#x20;
