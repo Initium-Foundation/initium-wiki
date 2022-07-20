@@ -77,8 +77,8 @@ There are six general tags of DAO proposals:
 There are five types of proposals in the Initium DAO as followings:
 
 * **Governance Proposals (#gov)**: this means the non-binding, advisory proposals to adopt certain governance provisions on the Initium DAO.&#x20;
-* **Project Proposals (#prp)**: these proposals allow the community to vote on joining a project in the Initium ecosystem to become a candidate for receiving funds and support from the Initium Foundation and the partner VCs. The approved candidate(s) will be eligible to have "Binding Action Proposals".
-* **Binding Action Proposals (#bip)**: these proposals allow the community to vote on binding actions that will result in changes made to Initium DAO's smart contracts. This can include the allocation of some part of DAO funds to a given project in the ecosystem.&#x20;
+* **Project Proposals (#prp)**: these proposals allow the community to vote on joining a project in the Initium ecosystem to become a candidate for receiving funds and support from the Initium Foundation and the partner VCs. The approved candidate(s) will be eligible for "Binding Action Proposals."
+* **Binding Action Proposals (#bap)**: these proposals allow the community to vote on binding actions that will result in changes made to Initium DAO's smart contracts. This can include the allocation of some part of DAO funds to a given project in the ecosystem.&#x20;
 * **Change and Improvement Proposals (#cip)**: these proposals allow the community to vote on the change and improvements to the Initium code of conduct, protocol improvements, etc.&#x20;
 * **Election Proposals (#elc)**: these proposals allow the community for contributing to the elections in the Initium Foundation's positions, including the Initium Chapters, Primes' election, committees' elections, etc.&#x20;
 

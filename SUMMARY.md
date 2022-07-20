@@ -87,7 +87,7 @@
 
 ## 💡 Initium Native Crafts <a href="#native-crafts" id="native-crafts"></a>
 
-* [Introduction](native-crafts/introduction.md)
+* [Introduction](platforms/introduction.md)
 * [Vertex](native-crafts/vertex.md)
 * [CraftBook](native-crafts/craftbook.md)
 * [Initium SDK](native-crafts/initium-sdk.md)
@@ -115,12 +115,12 @@
   * [Polygon Wallets](wallet-guide/inix-token-wallets/polygon-wallets.md)
   * [ARC-20 Wallets](wallet-guide/inix-token-wallets/arc-20-wallets.md)
 
-## 🏛 Initium DAOs <a href="#dao" id="dao"></a>
+## 🏛 Initium Governance <a href="#gov" id="gov"></a>
 
-* [Introduction](dao/introduction.md)
-* [Draft Proposals](dao-proposals/draft-proposals.md)
-* [Approved Proposals](dao-proposals/approved-proposals.md)
-* [Implemented Proposals](dao-proposals/implemented-proposals.md)
+* [Introduction](gov/introduction.md)
+* [Draft Proposals](gov/draft-proposals.md)
+* [Approved Proposals](gov/approved-proposals.md)
+* [Implemented Proposals](gov/implemented-proposals.md)
 
 ## 🖇 Appendixes <a href="#appendix" id="appendix"></a>
 
