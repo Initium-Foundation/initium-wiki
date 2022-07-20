@@ -1,4 +1,6 @@
-# Introduction
+# What is DAO?
+
+### Definition&#x20;
 
 A decentralized autonomous organization (DAO) is an entity with no central leadership. Decisions get made from the bottom-up, governed by a community organized around a specific set of rules enforced on a blockchain.
 
@@ -6,7 +8,7 @@ DAOs are internet-native organizations collectively owned and managed by their m
 
 ### How does a DAO work? <a href="#contentref_0" id="contentref_0"></a>
 
-As mentioned above, a DAO is an organization where decisions get made from the bottom-up; a collective of members owns the organization. There are various ways to participate in a DAO, usually through the ownership of a token.
+As mentioned above, a DAO is an organization where decisions get made from the bottom-up; a collective of members owns the organization. There are various ways to participate in a DAO, usually through token ownership.
 
 DAOs operate using smart contracts, which are essentially chunks of code that automatically execute whenever a set of criteria are met. Smart contracts are deployed on numerous blockchains nowadays, though Ethereum was the first to use them.
 
@@ -26,9 +28,7 @@ Trusting that code is easier to do as it’s publicly available and can be exten
 
 Such an organization has no hierarchical structure. Yet, it can still accomplish tasks and grow while being controlled by stakeholders via its native token. The lack of a hierarchy means any stakeholder can put forward an innovative idea that the entire group will consider and improve upon. Internal disputes are often easily solved through the voting system, in line with the pre-written rules in the smart contract.
 
-By allowing investors to pool funds, DAOs also give them a chance to invest in early-stage startups and decentralized projects while sharing the risk or any profits that may come out of them.
-
-### Why do we run Initium Foundation DAO?
+By allowing investors to pool funds, DAOs also enable them to invest in early-stage startups and decentralized projects while sharing the risk or any profits that may come from them.&#x20;
 
 Initium Foundation is assigned to developing, pursuing, and promoting the Initium network blockchain and ecosystem in participation with the participants and the stakeholders.&#x20;
 

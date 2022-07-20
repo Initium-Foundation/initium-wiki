@@ -40,7 +40,7 @@ Initium Labs releases the latest works on the Initium projects and their forks o
 
 The Initium VC is a DAO responsible for managing, allocating, and investing funds of the Initium Reserves Fund. This is necessary to note that the Initium Reserves Fund is different from Initium Foundation Reserves. Initium VC works closely with the **Business Development** and **Financial** committees of the Initium Foundation to assess the business and investment opportunities in new projects, acquisitions of new projects and platforms, etc.&#x20;
 
-The Initium VC also runs the [Dinarious DAO](initium-daos.md), by which the Initium Community members can vote for the proposals regarding using funds for the Initium VC investments and acquisitions.&#x20;
+The Initium VC also runs the Dinarious DAO, by which the Initium Community members can vote for the proposals regarding using funds for the Initium VC investments and acquisitions.&#x20;
 
 For further information, you may visit the Initium VC official website at [https://initium.money](https://initium.money)
 

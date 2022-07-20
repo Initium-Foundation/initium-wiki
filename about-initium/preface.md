@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/wiki-header3.png
 coverY: 0
 ---
 
-# Table of Contents
+# Preface
 
 This chapter includes articles about the Initium blockchain, the network design, organizations, organic platforms, documentation standards, how to join the Initium projects, etc. The information provided in this chapter is subject to change.&#x20;
 
@@ -16,7 +16,6 @@ Table of Contents:
 * [Constitution ](constitution.md)
 * [Feodis Fee Model](feodis-fee-model.md)
 * [Versions](versions-design.md)
-* [Initium DAOs](initium-daos.md)
 * [Native Organizations](native-organization.md)
 * [Initium Primes](initium-primes.md)
 * [The Initiumers](the-initiumers.md)

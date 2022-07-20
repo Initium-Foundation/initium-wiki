@@ -117,7 +117,7 @@
 ## 🏛 Initium Governance <a href="#gov" id="gov"></a>
 
 * [Preface](gov/preface.md)
-* [Introduction](gov/introduction.md)
+* [What is DAO?](gov/what-is-dao.md)
 * [Initium DAOs](gov/initium-daos.md)
 * [DAO Proposals](gov/dao-proposals.md)
 * [Approved Proposals](gov/approved-proposals.md)
