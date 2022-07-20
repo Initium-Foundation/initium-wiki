@@ -46,7 +46,7 @@ It refers to the special sales round for sales of INIX tokens to the individuals
 
 ### Public Sales Options
 
-It refers to the sales of the INIX token to the public. Anyone meeting [INIX Public Sales Terms and Conditions](../../../appendix/ico-terms-and-conditions.md) will be eligible to contribute to the Public Sales Options. 15% of the Initial supply equals 75,000,000 INIX will be offered to the public in three sales options as follows:
+It refers to the sales of the INIX token to the public. Anyone meeting INIX Public Sales Terms and Conditions will be eligible to contribute to the Public Sales Options. 15% of the Initial supply equals 75,000,000 INIX will be offered to the public in three sales options as follows:
 
 **Public Sales Option A**
 

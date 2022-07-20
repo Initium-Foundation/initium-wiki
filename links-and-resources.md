@@ -25,7 +25,7 @@ coverY: 0
 * Discord Server: [https://discord.gg/ztd62kgQfZ](https://discord.gg/ztd62kgQfZ)
 * Facebook:
 * Instagram:
-* Dev.to : [https://dev.to/initium](https://dev.to/initium)
+* Dev.to: [https://dev.to/initium](https://dev.to/initium)
 * Medium:
 
 ### &#x20;Github Repositories
@@ -36,10 +36,10 @@ coverY: 0
 ### Platforms:
 
 * RedWrap: [https://wrap.red](https://wrap.red)
-* Initium Bridge:&#x20;
 
-### Financial Trackers:
 
+
+* ### Financial Trackers:
 * CoinMarketCap:
 * ConGecko:
 

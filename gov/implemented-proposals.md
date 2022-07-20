@@ -1,2 +1,0 @@
-# Implemented Proposals
-

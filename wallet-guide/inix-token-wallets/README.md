@@ -1,2 +1,0 @@
-# INIX Token Wallets
-

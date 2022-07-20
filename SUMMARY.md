@@ -13,7 +13,6 @@
 * [Feodis Fee Model](about-initium/feodis-fee-model.md)
 * [Initium Networks](about-initium/initium-networks.md)
 * [Versions Design](about-initium/versions-design.md)
-* [Initium DAOs](about-initium/initium-daos.md)
 * [Native Organization](about-initium/native-organization.md)
 * [Initium Primes](about-initium/initium-primes.md)
 * [The Initiumers](about-initium/the-initiumers.md)
@@ -108,11 +107,7 @@
 * [Preface](wallet-guide/preface.md)
 * [What is a Wallet?](wallet-guide/what-is-a-wallet.md)
 * [Initium Native Wallets](wallet-guide/initium-native-wallets.md)
-* [INIX Token Wallets](wallet-guide/inix-token-wallets/README.md)
-  * [ERC-20 Wallets](wallet-guide/inix-token-wallets/erc-20-wallets.md)
-  * [BEP-20 Wallets](wallet-guide/inix-token-wallets/bep-20-wallets.md)
-  * [Polygon Wallets](wallet-guide/inix-token-wallets/polygon-wallets.md)
-  * [ARC-20 Wallets](wallet-guide/inix-token-wallets/arc-20-wallets.md)
+* [Other Wallets](wallet-guide/other-wallets.md)
 
 ## 🏛 Initium Governance <a href="#gov" id="gov"></a>
 
@@ -120,12 +115,12 @@
 * [What is DAO?](gov/what-is-dao.md)
 * [Initium DAOs](gov/initium-daos.md)
 * [DAO Proposals](gov/dao-proposals.md)
-* [Approved Proposals](gov/approved-proposals.md)
-* [Implemented Proposals](gov/implemented-proposals.md)
+* [Draft Processing](gov/draft-processing.md)
+* [Voting Process](gov/voting-process.md)
+* [Implementation Process](gov/implementation-process.md)
 
 ## 🖇 Appendixes <a href="#appendix" id="appendix"></a>
 
 * [Contribution](appendix/contribution.md)
 * [Links and Resources](links-and-resources.md)
-* [ICO Terms & Conditions](appendix/ico-terms-and-conditions.md)
 * [Glossary of Terms](glossary-of-terms.md)

@@ -10,11 +10,7 @@ This is important to note that the articles of this document are subjected to fr
 
 Table of Content
 
-* What is a Wallet?
-* Initium Native Wallets
-* INI Token Wallets
-  * ERC-20 Wallets
-  * BEP-20 Wallets
-  * Polygon Wallets
-  * ARC-20 Wallets
+* [What is a Wallet?](what-is-a-wallet.md)
+* [Initium Native Wallets](initium-native-wallets.md)
+* [Other Wallets for INIX Token](other-wallets.md)
 

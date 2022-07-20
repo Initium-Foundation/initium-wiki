@@ -1,2 +1,0 @@
-# ICO Terms & Conditions
-
