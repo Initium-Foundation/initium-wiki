@@ -118,7 +118,8 @@
 
 * [Preface](gov/preface.md)
 * [Introduction](gov/introduction.md)
-* [Draft Proposals](gov/draft-proposals.md)
+* [Initium DAOs](gov/initium-daos.md)
+* [DAO Proposals](gov/dao-proposals.md)
 * [Approved Proposals](gov/approved-proposals.md)
 * [Implemented Proposals](gov/implemented-proposals.md)
 

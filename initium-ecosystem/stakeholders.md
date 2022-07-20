@@ -16,7 +16,7 @@ The Initium ecosystem consists of various stakeholders, each playing a critical 
 
 * **The Primes**: the founder team of the Initium Foundation and the Initium protocol who formed the initial core of the foundation. Primes have no specific advantages over the other members of the foundation. They're also committed to running the validators on their own by acquiring the Validator License.&#x20;
 * **Validators**: as critical stakeholders of the Initium network, validators are an integral part of the Initium Foundation. Their votes are crucial for implementing the changes to the Initium protocol.&#x20;
-* **HODLers of INI token.**
+* **HODLers of INIX token.**
 * &#x20;**Initium Labs**: as the technical wing of the Initium Foundation, the Initium Foundation is also an inherent authority to participate in the Initium DAO.&#x20;
 * **Initium Developers Community**: As a DAO, the Initium Developers Community is an affiliation of the Initium Labs that facilitates collaboration among the developers.&#x20;
 
@@ -24,7 +24,7 @@ The Initium ecosystem consists of various stakeholders, each playing a critical 
 
 **3) Initium Developers Community**: as a DAO, the Initium Developers Community (ICD) is a globally distributed home to developers, token holders, validators, and members supporting the protocol. Initium Labs conducts the ICD Initiatives Program to reward the developers for their collaboration and participation in developing the Initium network and ecosystem. In the meantime, the ICD is where the Certified Initium Developers (CIDs) are available to be hired for new projects, institutions, and organizations. For further information, you may visit https://initium.team.&#x20;
 
-**4) Initium VC**: as a DAO ([Dinarios](../about-initium/initium-daos.md#types-of-initium-daos)) of the Initium ecosystem, the Initium VC is assigned to support the Initium community activities and provide financial incentives to eligible projects joining the Initium ecosystem. The assets of the Initium Reserves Fund are managed by the Initium Foundation, while the DAO members vote on their allocations. This is necessary to not that the Initium Reserves Fund is different from Initium Foundation Reserves.&#x20;
+**4) Initium VC**: as a DAO (Dinarios) of the Initium ecosystem, the Initium VC is assigned to support the Initium community activities and provide financial incentives to eligible projects joining the Initium ecosystem. The assets of the Initium Reserves Fund are managed by the Initium Foundation, while the DAO members vote on their allocations. This is necessary to note that the Initium Reserves Fund differs from Initium Foundation Reserves.&#x20;
 
 **5) Initium Projects**: the projects joining the Initium ecosystem play an essential role in its success. These projects would be in various fields, including Web 3.0, DeFi, NFTs, GameFi, etc. These projects use the Initium blockchain to run their applications, store data, and issue tokens.
 
