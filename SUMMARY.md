@@ -4,7 +4,7 @@
 
 ## 📙 About Initium
 
-* [Table of Contents](about-initium/table-of-contents.md)
+* [Preface](about-initium/preface.md)
 * [Introduction to Initium](about-initium/introduction-to-initium.md)
 * [Technology](about-initium/technology.md)
 * [Network Design](about-initium/network-design.md)
@@ -26,7 +26,7 @@
 
 ## 🏢 Community
 
-* [Table of Contents](initium-community/README.md)
+* [Preface](community/preface.md)
 * [Introduction](initium-community/introduction.md)
 * [Initiumer Code of Conduct](initium-community/initiumer-code-of-conduct.md)
 * [Community Publications](initium-community/initium-publications.md)
@@ -35,7 +35,7 @@
 
 ## 🛠 Developers
 
-* [Table of Content](initium-developers/README.md)
+* [Preface](developers/preface.md)
 * [Introduction](initium-developers/introduction.md)
 * [Code of Conduct](initium-developers/code-of-conduct.md)
 * [Blox](initium-developers/what-is-blox.md)
@@ -48,7 +48,7 @@
 
 ## ⚙ Validators
 
-* [Table of Contents](initium-validator/README.md)
+* [Preface](validators/preface.md)
 * [Introduction](initium-validator/introduction.md)
 * [Anatomy](initium-validator/anatomy/README.md)
   * [TPU & TVU](initium-validator/anatomy/tpu-and-tvu.md)
@@ -60,18 +60,18 @@
 
 ## 📈 Ecosystem
 
-* [Table of Contents](ecosystem/table-of-contents.md)
+* [Preface](ecosystem/preface.md)
 * [Introduction](initium-ecosystem/introduction.md)
 * [Stakeholders](initium-ecosystem/stakeholders.md)
 * [Usecases](initium-ecosystem/usecases.md)
-* [Projects and Platforms](ecosystem/projects-and-platforms.md)
+* [Projects](ecosystem/projects.md)
 * [Strategic Partnerships](ecosystem/strategic-partnerships.md)
 * [Merge and Aquisitions](ecosystem/merge-and-aquisitions.md)
 * [Roadmap](initium-ecosystem/roadmap.md)
 
 ## 🪙 Crypto Economics
 
-* [Table of Contents](initium-ecosystem/crypto-economics/README.md)
+* [Preface](crypto-economics/preface.md)
 * [Introduction](initium-ecosystem/crypto-economics/initium-tokenomics/README.md)
 * [Teminology](initium-ecosystem/crypto-economics/teminology.md)
 * [Initium Native Token](initium-ecosystem/crypto-economics/initium-tokenomics/what-is-inix/README.md)
@@ -83,11 +83,10 @@
 * [Airdrops](initium-ecosystem/crypto-economics/initium-tokenomics/airdrops.md)
 * [NFT Collections](initium-ecosystem/crypto-economics/nft-collections.md)
 * [Transaction Fees](initium-ecosystem/crypto-economics/transaction-fees.md)
-* [Use of Funds](initium-ecosystem/crypto-economics/use-of-funds.md)
 
 ## 💡 Initium Native Crafts <a href="#native-crafts" id="native-crafts"></a>
 
-* [Introduction](platforms/introduction.md)
+* [Preface](native-crafts/preface.md)
 * [Vertex](native-crafts/vertex.md)
 * [CraftBook](native-crafts/craftbook.md)
 * [Initium SDK](native-crafts/initium-sdk.md)
@@ -99,14 +98,14 @@
 
 ## 🏭 Ecosystem Projects
 
-* [Introduction](ecosystem-projects/introduction.md)
+* [Preface](ecosystem-projects/preface.md)
 * [Candidate Projects](platforms/projects/candidate-projects.md)
 * [Developing Projects](platforms/projects/developing-projects.md)
 * [Released Projects](platforms/projects/released-projects.md)
 
 ## 💰 Wallet Guide
 
-* [Introduction](wallet-guide/introduction.md)
+* [Preface](wallet-guide/preface.md)
 * [What is a Wallet?](wallet-guide/what-is-a-wallet.md)
 * [Initium Native Wallets](wallet-guide/initium-native-wallets.md)
 * [INIX Token Wallets](wallet-guide/inix-token-wallets/README.md)
@@ -117,6 +116,7 @@
 
 ## 🏛 Initium Governance <a href="#gov" id="gov"></a>
 
+* [Preface](gov/preface.md)
 * [Introduction](gov/introduction.md)
 * [Draft Proposals](gov/draft-proposals.md)
 * [Approved Proposals](gov/approved-proposals.md)

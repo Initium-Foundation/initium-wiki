@@ -16,7 +16,7 @@ The Inflation Schedule is a permanent _Regula_ in the Initium Constitution and g
 
 As mentioned before, the inflation rate of the INIX is subjected to various factors, including [_Initial Inflation Rate_](../teminology.md#inflation-schedule), [_Dis-Inflation Rate_](../teminology.md#inflation-schedule), and [_Long Term Inflation Rate_](../teminology.md#inflation-schedule).&#x20;
 
-At the INIX TGE, there will be 500,000,000 INIX as the Initial Supply which will be distributed according to the [Initium Tokenomics](../../../ecosystem/table-of-contents.md). This supply will be considered as the [Total Current Supply](../teminology.md#total-current-supply) of INIX.&#x20;
+At the INIX TGE, there will be 500,000,000 INIX as the Initial Supply which will be distributed according to the [Initium Tokenomics](../../../ecosystem/preface.md). This supply will be considered as the [Total Current Supply](../teminology.md#total-current-supply) of INIX.&#x20;
 
 ### Inflation Schedule Mechanism
 

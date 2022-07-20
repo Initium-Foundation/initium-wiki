@@ -12,19 +12,19 @@ coverY: 0
 
 ### What is Initium Wiki
 
-Available on https://initium.wiki, the Initium Wiki is an open-source guide for the Initium community for exploring the Initium ecosystem and its progress. The liguistics and terms used on the Initium Wiki are less-technical to provide a better understanding of the Initium projects. If you would like to contribute to the Initium Wiki, please visit the [Initium Community chapter](initium-community/) or contact us via [wiki@initium.foundation](mailto:wiki@initium.foundation).&#x20;
+Available on https://initium.wiki, the Initium Wiki is an open-source guide for the Initium community for exploring the Initium ecosystem and its progress. The liguistics and terms used on the Initium Wiki are less-technical to provide a better understanding of the Initium projects. If you would like to contribute to the Initium Wiki, please visit the [Initium Community chapter](community/preface.md) or contact us via [wiki@initium.foundation](mailto:wiki@initium.foundation).&#x20;
 
 ### The Structure and Contents
 
 The Initium Wiki is structured to provide useful information to the Initium community on the Initium ecosystem. This information changes as the Initium project(s) progresses. Here is a guide on how to use Initium Wiki and how to reach your required information.
 
-1. ****[**About Initium**](about-initium/table-of-contents.md): this chapter includes articles about the Initium blockchain, the network design, organizations, organic platforms, documentation standards, how to join the Initium projects, etc.
-2. ****[**Initium Community**](initium-community/): this chapter includes the articles about the role of the Initium Community, code of conduct, official sources of information, blogs, forum, the Initium Community Rewards Program, etc.
-3. ****[**Initium Developers**](initium-developers/): this chapter includes introductory articles about the Initium developers guide, code of conduct, how to contribute to the Initium projects, Initium Developers Community (IDC), documentation, etc.
-4. ****[**Initium Validators**](initium-validator/): this chapter includes introductory articles about the Initium validators, their requirements, community, documentation, rewards, etc.
-5. ****[**Initium Ecosystem**](initium-validator/): this chapter contains useful articles for understanding the Initium ecosystem, tokenomics, crypto-economics, etc.
+1. ****[**About Initium**](about-initium/preface.md): this chapter includes articles about the Initium blockchain, the network design, organizations, organic platforms, documentation standards, how to join the Initium projects, etc.
+2. ****[**Initium Community**](community/preface.md): this chapter includes the articles about the role of the Initium Community, code of conduct, official sources of information, blogs, forum, the Initium Community Rewards Program, etc.
+3. ****[**Initium Developers**](developers/preface.md): this chapter includes introductory articles about the Initium developers guide, code of conduct, how to contribute to the Initium projects, Initium Developers Community (IDC), documentation, etc.
+4. ****[**Initium Validators**](validators/preface.md): this chapter includes introductory articles about the Initium validators, their requirements, community, documentation, rewards, etc.
+5. ****[**Initium Ecosystem**](validators/preface.md): this chapter contains useful articles for understanding the Initium ecosystem, tokenomics, crypto-economics, etc.
 6. ****[**Platforms**](broken-reference): this chapter provides information about the Initium Native Apps (INPs), how to apply for an INP, the candidates, developing projects, released INPs, and the other applications integrated with the Initium ecosystem.
-7. ****[**Wallet Guide**](wallet-guide/introduction.md): this chapter provides information about the current and future wallets of the Initium ecosystem.
+7. ****[**Wallet Guide**](wallet-guide/preface.md): this chapter provides information about the current and future wallets of the Initium ecosystem.
 8. ****[**DOA Proposals**](broken-reference): this chapter provides information about the Initium DAOs proposals, including the draft, approved, and implemented ones.
 9. ****[**Glossary of Terms**](glossary-of-terms.md): This chapter is a comprehensive glossary for blockchain and DeFi terms.
 10. ****[**Links and Resources**](links-and-resources.md): This section provides an up-to-date link to useful websites and resources to understand the Initium better.
