@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Feodis Fee Model
 
 Usually, networks like Ethereum transactions include a fee field that indicates the maximum fee field a slot leader is permitted to charge for processing a transaction. The cluster, on the other hand, agrees on a minimum fee. If the network is congested, the slot leader may prioritize the transactions offering higher fees. That means the client won't know how much was collected until the cluster confirms the transaction and the remaining balance is checked. This mechanism would result in unexpected higher gas fees.

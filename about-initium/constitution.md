@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Constitution
 
 The Initium Constitution (_Constitution_) is a unique feature of the Initium protocol, which significantly improves the ecosystem's confidence and security. It is a set of rules that govern the protocol. These rules are called _Regula_. Every Regula is set for a purpose in the Constitution.
