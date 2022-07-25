@@ -8,9 +8,9 @@ description: >-
 
 ### Low-Cost Transactions&#x20;
 
-Leptons, a fraction of INIX, will be used to pay transaction fees on the Initium network. The proposed basic transaction fee on the Initium network is 5000 leptons, equal to 0.000005 INIX.&#x20;
+Leptons, a fraction of INIX, will be used to pay transaction fees on the Initium network. The proposed basic transaction fee on the Initium network is 1,000,000 leptons, equal to 0.000001 INIX.&#x20;
 
-### Initium Fee ModelI
+### Initium Fee Model
 
 Initium will benefit from the [Feodis](../../about-initium/feodis-fee-model.md) transaction fee model.&#x20;
 
@@ -24,7 +24,7 @@ Each transaction sent through the Initium network, to be processed by the curren
 
 Network consensus votes are sent as normal system transfers, which means that validators pay transaction fees to participate in consensus.&#x20;
 
-The proposed basic transaction fee (minimum fee) on the Initium network is 0.000005 INIX which makes Initium one of the most cost-effective networks for users and developers. It means that even if the INIX price becomes $1,000, a transaction on the Initium network will be as cheap as $0.005!
+The proposed basic transaction fee (minimum fee) on the Initium network is 0.000001 INIX which makes Initium one of the most cost-effective networks for users and developers. It means that even if the INIX price becomes $1,000, a transaction on the Initium network will be as cheap as $0.001!
 
 ### Use of Transaction Fees
 
