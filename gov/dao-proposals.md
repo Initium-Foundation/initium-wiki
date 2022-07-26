@@ -22,7 +22,7 @@ There are six general tags of DAO proposals:
 
 * **Prime** **Proposals (#prime)**: proposals with this tag are the proposals offered by the Initium Foundation Prime Members. Such proposals can be immediately implemented after getting the required votes from the DAO.&#x20;
 * **Native Proposals (#native)**: these are the proposals offered by the native platforms and projects of the Initium ecosystem. Depending on the proposal's content, they may need approval from different Initium DAOs.&#x20;
-* **Community Proposals (#community)**: these are the proposals offered by the community members of the Initium ecosystem. Depending on their impact on the Initium ecosystem, these proposals may require final approval by the _Covenant DAO_.&#x20;
+* **Community Proposals (#community)**: these are the proposals offered by the community members of the Initium ecosystem. Depending on their impact on the Initium ecosystem, these proposals may require final approval by the _Imperium DAO_.&#x20;
 * **Tech Proposals (#tech)**: there are proposals regarding the technical issues of the Initium ecosystem. Such proposals first need to be approved in **Blox DAO**.&#x20;
 * **Initium Chapters' Proposals (#chapter)**: one or more Initium Chapters provide proposals to the DAOs of the Initium. Depending on the proposal's scale, a #chapter proposal may be restricted for voting by the chapter members or be open for other community members to vote.
 * **Partner Proposals (#partner)**: these are the proposals offered by the platforms, institutions, and projects that have been integrated with the Initium protocol and/or supporting it. Such proposals need to be reviewed by the Initium Foundation to be eligible for voting in the pertaining DAO. &#x20;

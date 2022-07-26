@@ -12,7 +12,7 @@ As mentioned before, In Initium's chronology, there are two periods for staking 
 
 ## Pre-Genesis Staking Rewards
 
-This period is between the end of Public Sales Options and the [Genesis Event](../teminology.md#genesis-event). The main channel of participants' rewards is the Staking Rewards Pool with basic reserves of 100,000,000 INIX allocated from the Initial Supply. During this period, the following INIX HODLers are eligible to receive the staking rewards:
+This period is between the end of Public Sales Options and the [Genesis Event](../teminology.md#genesis-event). The main channel of participants' rewards is the Staking Rewards Pool, with basic reserves of 100,000,000 INIX allocated from the Initial Supply. During this period, the following INIX HODLers are eligible to receive the staking rewards:
 
 * **Private Sales' Investors**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to 5% APY during the vesting period.&#x20;
 * **Validators Staking Investors**: as mentioned in Initial Supply Distribution, these HODLers' tokens are subject to 15% APY during the vesting period.&#x20;
@@ -117,7 +117,7 @@ Hint: if the participants change the _S_ five times (_n_) during an epoch, then 
 The Effective Epoch (_e_) refers to the number of effective epochs during a calendar year. In the basic design of Initium, an epoch is valid for two days, however, this can be changed in network upgrades. Therefore, the Effective Epoch (_e_) is applied to determine the staking rewards for each epoch. The Effective Epoch (_e_) is calculated as below:
 
 $$
-e = T/d_e
+e = T/d_{epoch}
 $$
 
 where&#x20;
@@ -129,7 +129,7 @@ where&#x20;
 
 As mentioned before, the Staking Rewards Pool Reserve (_Rp_) for the Post-Genesi period is determined by two factors:
 
-* The remained reserves from the Pre-Genesis period; we estimate that a total of 44,672,925 INIX will be rewarded during the Pre-Genisis period (see [Pre-Genesis Staking Rewards](staking-rewards.md#pre-genesis-staking-rewards)) by which \~55,327,075 INIX tokens will be available at the pool at the Genesis Event.&#x20;
+* The remained reserves from the Pre-Genesis period; we estimate that a total of 44,672,925 INIX will be rewarded during the Pre-Genisis period (see [Pre-Genesis Staking Rewards](staking-rewards.md#pre-genesis-staking-rewards)), by which \~55,327,075 INIX tokens will be available at the pool at the Genesis Event.&#x20;
 * 50% of block rewards
 * 50% of the transaction fees
 
@@ -138,10 +138,10 @@ As mentioned before, the Staking Rewards Pool Reserve (_Rp_) for the Post-Genesi
 The following formula will be used to calculate the staking rewards for Staking Rewards **** _(Sr)_
 
 $$
-Sr = E_r*R_p*e
+Sr = (E_r*R_p)/e
 $$
 
-For example if:
+For example, if:
 
 * the validator has initially staked 10,000 INIX
 * _TCSs_ is 500,000,000 INIX
@@ -157,14 +157,14 @@ In this example, the rewards decreased because the validator's % Staked INIX (_S
 
 The staking rewards in Initium are designed to incentivize the participants to contribute to the network security by running their validators or assisting them in securing the network more.&#x20;
 
-The APY rate for the staking rewards will be dynamic in Initium and depends on various factors including:
+The APY rate for the staking rewards will be dynamic in Initium and depends on various factors, including:
 
 * **Block Rewards**: the Inflation Schedule mechanism will decrease the block rewards. This process is called _Halving_, by which the block reward will be reduced by 50% during every four years cycle. This way, the block rewards will be zero after 44 years.
 * **Transactions**: since 50% of the transaction fees are allocated to the Staking Rewards Pool, increasing the number of transactions per block would directly increase the staking rewards. Initium can handle several thousand transactions per second and can be improved by implementing new protocol upgrades.
-* **Fee Structure**: at the time of writing this article, the Initium fee structure is based on a fixed fee structure and as low as 5000 leptons. However, it's proposed to implement the _Congestion Driven Fee_ model which can dynamically set the transaction fee based on its complexity. The Initium community also can decide on transaction fees to provide more incentives to the participants.&#x20;
-* **The number of validators**: the increasing number of validators can decrease the time of the epoch which can increase the ROI of all validators as it increases the effect of _e_ in the equation. This mechanism encourages the decentralization of the network by joining more validators to the network to secure it.&#x20;
+* **Fee Structure**: at the time of writing this article, the Initium fee structure is based on a fixed fee structure and as low as 5,000,000 leptons. However, it's proposed to implement the _Foedis_ fee model (discussed in Transaction), which can dynamically set the transaction fee based on its complexity. The Initium community also can decide on transaction fees to provide more incentives to the participants.&#x20;
+* **The number of validators**: the increasing number of validators can decrease the time of the epoch, which can increase the ROI of all validators as it increases the effect of _e_ in the equation. This mechanism encourages the decentralization of the network by joining more validators to the network to secure it.&#x20;
 * **Independent APY**: the increase in the staking rate of each participant will independently increase his APY in each epoch as it directly increases the effect of _Er_ in the equation. It means every participant would have a different APY.&#x20;
 * **Cooperation**: since the Proxy Staking Method providers also need to run their validators or cooperate with Initium Certified Valitodors, staking via these providers will make the network more secure and increase the ROI of validators.
-* **Dynamic Rewards**: if in any case, the participants receive lower rewards in a given epoch, as the new tokens will be added to Staking Rewards Pool based on the Inflation Schedule, they can receive higher rewards in the next epoch.&#x20;
+* **Dynamic Rewards**: if, in any case, the participants receive lower rewards in a given epoch, as the new tokens will be added to Staking Rewards Pool based on the Inflation Schedule, they can receive higher rewards in the next epoch.&#x20;
 * **Strategy**: the participants can conduct various staking strategies to increase their rewards.&#x20;
 

@@ -4,7 +4,7 @@
 
 This article describes how the initial supply of INIX will be done. The INIX token and Initium Ecosystem are widely described on the [Initium Whitepaper](https://whitepaper.initium.foundation).  &#x20;
 
-The Initial supply of INIX is 500,000,000 (five hundred million) which will be allocated as follows:
+The Initial supply of INIX is 500,000,000 (five hundred million), which will be allocated as follows:
 
 * [Ecosystem Reserves](initial-supply-distribution.md#ecosystem-reserves): 35% equals 175,000,000 INIX&#x20;
 * [Seed Funding Sales](initial-supply-distribution.md#seed-funding): 12% equals 60,000,000 INIX
@@ -34,11 +34,11 @@ This category of allocation contains various sub-allocations as followings:
 
 ### Seed Funding Sales
 
-It refers to the sales of INIX tokens to Initium's early supporters and investors. 12% of the Initial Supply equals 60,000,000 INIX is allocated to the individual and institutional investors who want to join the Initium at seed funding. The seed funding tokens will be locked till the [Genesis Event](../teminology.md#genesis-event) and will be unlocked by 20% annually. Any unsold tokens remaining from Seed Funding Sales will be added to Initium Foundation Reserves.&#x20;
+It refers to the sales of INIX tokens to Initium's early supporters and investors. 12% of the Initial Supply equals 60,000,000 INIX is allocated to the individual and institutional investors who want to join the Initium at seed funding. The seed funding tokens will be locked till the [Genesis Event](../teminology.md#genesis-event). Any unsold tokens remaining from Seed Funding Sales will be added to Initium Foundation Reserves.&#x20;
 
 ### Private Investors' Staking Sales
 
-It refers to the sales of INIX tokens to private investors after Seed Funding Sales. 9% of the Initial supply equals 45,000,000 INIX is allocated to the individual and institutional investors who want to invest in the Initium. The Private Investors' Staking Sales will be conducted in several rounds before and after the public sales. These tokens are under the custody of the Initium Foundation and can be sold based on auctions to fund the Initium projects. The Private Investors' Staking Sales tokens will be locked for a minimum of three years with 5% APY.
+It refers to the sales of INIX tokens to private investors after Seed Funding Sales. 9% of the Initial supply equals 45,000,000 INIX is allocated to the individual and institutional investors who want to invest in the Initium. The Private Investors' Staking Sales will be conducted in several rounds before and after the public sales. These tokens are under the custody of the Initium Foundation and can be sold based on auctions to fund the Initium projects. The Private Investors' Staking Sales tokens will be locked until the Genesis Event with 5% APY.
 
 ### Validators Staking Sales
 

@@ -9,10 +9,10 @@ description: >-
 
 ### Annual Percentage Yield (APY)
 
-The annual percentage yield (APY) is the real rate of return earned on an investment, taking into account the effect of compounding interest. Unlike simple interest, compounding interest is calculated periodically and the amount is immediately added to the balance. With each period going forward, the account balance gets a little bigger, so the interest paid on the balance gets bigger as well.
+The annual percentage yield (APY) is the real rate of return earned on an investment, considering the effect of compounding interest. Unlike simple interest, compounding interest is calculated periodically, and the amount is immediately added to the balance. With each period going forward, the account balance gets a little bigger, so the interest paid on the balance also gets bigger.
 
 * APY is the actual rate of return that will be earned in one year if the interest is compounded.
-* Compound interest is added periodically to the total invested, increasing the balance. That means each interest payment will be larger, based on the higher balance.
+* Compound interest is added periodically to the total invested, increasing the balance. That means each interest payment will be larger based on the higher balance.
 * The more often interest is compounded, the higher the rate will be.
 
 The formula for calculating APY is:
@@ -28,7 +28,7 @@ Where:
 
 ### Block Rewards&#x20;
 
-This is an incentive for the validators to keep the Initium network more secure and increase their uptime. The _Block Reward_ is determined by the _Block Reward Schedule_ and is subjected to halving every 4 years. The initial _Block Reward_ will be 1 INITIUM per Block in the first 4 years and will be zero after 36 years. The _Block Reward_ will be granted to the _Prime Node_ of each block.&#x20;
+This incentivizes the validators to keep the Initium network more secure and increase their uptime. The _Inflation Schedule determines the block reward_ and is subject to halving every four years. The initial _Block Reward_ will be 1 INITIUM per Block in the first four years and zero after 44 years. 90% of block rewards are added to Staking Rewards Pool, while 10% is allocated to the Initium Foundation for developing the ecosystem.&#x20;
 
 ### **Dis-inflation**
 
@@ -36,7 +36,7 @@ It refers to a series of mechanisms and measures (e.g., [Fee Burning Schedule](t
 
 ### Effective Inflation Rate
 
-The [Inflation Rate](teminology.md#inflation-rate) actually observed on the Initium network after accounting for other factors that might decrease the [_Total Current Supply_](teminology.md#total-current-supply). There are various factors affecting this rate, including;
+The observed [Inflation Rate](teminology.md#inflation-rate) on the Initium network after accounting for other factors that might decrease the [_Total Current Supply_](teminology.md#total-current-supply). There are various factors affecting this rate, including;
 
 * [Block Rewards](teminology.md#block-rewards)
 * While the [_Inflation Schedule_](teminology.md#inflation-schedule) determines how the protocol issues [INIX](teminology.md#inix), this neglects the concurrent elimination of tokens in the ecosystem due to various factors. The primary token burning mechanism is the burning of a portion of each transaction fee. For the first 4 years, 50% of each transaction fee is burned, with the remaining fee retained by the validator that processes the transaction. Burning the transaction fees is subjected to the _Fee Burn Schedule_ and will be decreased by 15% every 4 years and will tend to zero after 36 years.&#x20;
@@ -61,7 +61,7 @@ The genesis block is the first-ever block recorded on the Initium blockchain net
 
 ### Genesis Event
 
-Refers to the very first event of the [Genesis Year](teminology.md#genesis-year) by which the [genesis block](teminology.md#genesis-block) of [Initium](teminology.md#initium-1) is generated and the mainnet will be launched.&#x20;
+Refers to the first event of the [Genesis Year](teminology.md#genesis-year) by which the [genesis block](teminology.md#genesis-block) of [Initium](teminology.md#initium-1) is generated, and the mainnet will be launched.&#x20;
 
 ### Genesis Inflation Rate
 
@@ -81,11 +81,11 @@ The Initium protocol will automatically create new coins on a predetermined [Inf
 
 ### Inflation Schedule
 
-Refers to the deterministic description of INIX token issuance over time. The Initium Foundation is proposing a dis-inflationary _Inflation Schedule_. I.e. Inflation starts at its highest value, the rate reduces over time until stabilizing at a predetermined long-term inflation rate (see discussion below). This schedule is completely and uniquely parameterized by three numbers:
+Refers to the deterministic description of INIX token issuance over time. The Initium Foundation is proposing a dis-inflationary _Inflation Schedule_. I.e. Inflation starts at its highest value, the rate reduces over time until stabilizing at a predetermined long-term inflation rate (see discussion below). Three factors completely and uniquely parameterize this schedule:
 
-* **Initial Inflation Rate**: The starting[ _Inflation Rate_](teminology.md#inflation-rate) for when inflation is first enabled. The coin issuance rate can only decrease from this point.
-* **Dis-inflation Rate**: The rate at which the [_Inflation Rate_](teminology.md#inflation-rate) is reduced.
-* **Long-term Inflation Rate**: The stable, long-term _Inflation Rate_ is to be expected.
+* **Initial Inflation Rate**: The starting _Inflation Rate_ for when inflation is first enabled. This rate results from minting new tokens in the first cycle (four years after the Genesis event). The token minting rate can only decrease from this point.
+* **Dis-inflation Rate**: The rate at which the _Inflation Rate_ is reduced.
+* **Long-term Inflation Rate**: The stable, long-term _Inflation Rate_ is expected.
 
 See [Inflation Schedule](teminology.md#inflation-schedule) for further information.&#x20;
 

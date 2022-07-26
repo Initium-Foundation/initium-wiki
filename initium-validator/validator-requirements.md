@@ -8,9 +8,9 @@ description: Subject to change.
 
 A minimum amount of 2,000 INIX will be required to run a validator on the Initium network. The validators with higher staking of INIX have more voting power, receive more transactions to validate, and have more chances to be elected as the Prime Node to receive the block rewards. The Initium community can stake their INIX tokens on the validators to secure the Initium, increase validators' stakings, and acquire the staking rewards. For more information, you may read Staking Rewards.
 
-### Vote Booklet
+### Vote Codex
 
-A vote booklet is needed to participate in consensus.&#x20;
+A vote codex (account) is needed to participate in consensus.&#x20;
 
 ### Transaction Fees
 
@@ -18,7 +18,7 @@ Voting also requires sending a vote transaction for each block the validator agr
 
 ### Hardware Recommendations
 
-Upon the launch of the Initium Testnet, we cannot have a finalized figure from the hardware requirements for a validator. However, based on our laboratory estimations, the following requirements are expected. We plan to decrease the hardware cost for the running validators for the mainnet. The hardware costs at the time of writing this article are around $850-$1,300, depensing on the manufacturer's brand. &#x20;
+Upon the launch of the Initium Testnet, we cannot have a finalized figure from the hardware requirements for a validator. However, based on our laboratory estimations, the following requirements are expected. We plan to decrease the hardware cost for the running validators for the mainnet. The hardware costs at the time of writing this article are around $850-$1,300, depending on the manufacturer's brand. &#x20;
 
 #### CPU
 

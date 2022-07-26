@@ -26,11 +26,7 @@ Given the public nature of most blockchains, it is possible to see how much, and
 
 ## Airdrop
 
-In the cryptocurrency and blockchain ecosystem, the term “Airdrop” refers to the distribution of digital assets to the public, either by virtue of holding a certain other token or simply by virtue of being an active wallet address on a particular blockchain.
-
-This is separate and distinct from the allocation of tokens or coins that happen via an ICO event. During ICOs, the digital asset being offered is typically purchased using an alternate coin or token. In the case of airdrops, there is no purchase required from the recipient, meaning that the assets are distributed for free.
-
-Airdrops are often used as a marketing tool in order to raise awareness of the coin or token that is being distributed, as well as a method of diversifying the number of holders of that asset.The way in which airdrops typically work is that in order to be eligible, a user must hold a certain amount of the asset in a public wallet at the time of the snapshot that is taken as a view of the current state of the blockchain at that particular point in time.
+In the cryptocurrency and blockchain ecosystem, the term "Airdrop" refers to the distribution of digital assets to the public, either by holding a specific other token or simply by being an active wallet address on a particular blockchain. This is separate and distinct from the allocation of tokens or coins that happen via a sales event. The digital asset being offered is typically purchased using an alternate token during sales. In the case of airdrops, the recipient requires no purchase, meaning that the assets are distributed for free. Airdrops are often used as a marketing tool to raise awareness of the coin or token being distributed and diversify the number of holders of that asset.&#x20;
 
 ## Algorithm
 
@@ -38,7 +34,7 @@ In computer science, an algorithm consists of a sequence of unambiguous instruct
 
 Every algorithm is made of a fixed beginning and ending point, producing outputs according to the inputs and the predefined steps. Multiple algorithms can be combined to perform more elaborate tasks, but higher complexity also requires more computational resources.&#x20;
 
-Algorithms can be measured by their correctness and efficiency. Correctness refers to the algorithm’s accuracy and whether or not it can solve a certain problem. Efficiency is related to the amount of resources, and time an algorithm needs to perform a particular task. Many computer scientists use a mathematical analysis technique known as asymptotic to compare different algorithms, regardless of the programming language or hardware they are running on.
+Algorithms can be measured by their correctness and efficiency. Correctness refers to the algorithm’s accuracy and whether or not it can solve a certain problem. Efficiency is related to the amount of resources and time an algorithm needs to perform a particular task. Many computer scientists use a mathematical analysis technique known as asymptotic to compare different algorithms, regardless of the programming language or hardware they are running on.
 
 ## All or None Order (AON)
 
@@ -54,7 +50,7 @@ The term “All-Time High” relates to the highest price that an asset has achi
 
 ## Allocation
 
-Allocation is an allotment of tokens or equity, that may be earned, purchased, or set aside for a certain investor, team, group, organization, or other related entity.
+Allocation is an allotment of tokens or equity that may be earned, purchased, or set aside for a certain investor, team, group, organization, or other related entity.
 
 For a crypto team in its whitepaper stages, the executive team or community may work on deciding what allocations of tokens should be divided up into different initiatives and departments, such as development, marketing, operational costs, and so on. If a team has a foundation or other entity that is in control of funds, it may also decide to create an allocation for a token treasury to be utilized as specified by the team or community.
 
@@ -165,7 +161,7 @@ Generally speaking, a bear market refers to a strong market downtrend that prese
 
 ## Benchmark
 
-In short, a benchmark is a standard that functions as a point of reference. Within the financial industry, a benchmark is a measurement standard which can be used to gauge the performance of a particular asset or investment portfolio. Among the most common forms of benchmarks are the so-called indexes, which are basically financial instruments used to represent a group of individual market prices or a collection of data points.\
+In short, a benchmark is a standard that functions as a point of reference. Within the financial industry, a benchmark is a measurement standard that can be used to gauge the performance of a particular asset or investment portfolio. Among the most common forms of benchmarks are the so-called indexes, which are basically financial instruments used to represent a group of individual market prices or a collection of data points.\
 
 
 ## BEP-20
@@ -174,7 +170,7 @@ BEP-20 is a token standard on Binance Smart Chain that extends ERC-20, the most 
 
 ## Beta Code
 
-Later stage prototype computer code, programs, and algorithms meant to solve a problem, and/or provide digital goods or services. Beta code comes with the expectation that the code has more functionality and stability than a mid-to-late stage prototype stage with a Beta testing phase, and that the software functionality, features, and security may still be limited.
+Later stage prototype computer code, programs, and algorithms meant to solve a problem and/or provide digital goods or services. Beta code comes with the expectation that the code has more functionality and stability than a mid-to-late stage prototype stage with a Beta testing phase, and that the software functionality, features, and security may still be limited.
 
 The codebase, process, system, and/or network is often opened up to a limited number of testers who stress test systems and provide feedback for improvements to the developer or development team.
 
@@ -206,7 +202,7 @@ Bitcoin is the world’s largest cryptocurrency by market capitalization (market
 
 ## Block
 
-In short, the term block refers to computer files that store transaction data. These blocks are arranged in a linear sequence that forms an endless chain of blocks - hence, the term blockchain. So all information about blockchain transactions is gathered and recorded inside these blocks, and every newly generated block is connected to the previous one through the use of cryptographic techniques.The chain of linked blocks stores all the transaction data generated since the launch of a particular blockchain. So the records go all the way back to the first block, which is referred to as the block zero or genesis block. The number of confirmed blocks since the genesis block is denoted as the block height.\
+In short, the term block refers to computer files that store transaction data. These blocks are arranged in a linear sequence that forms an endless chain of blocks - hence, the term blockchain. So all information about blockchain transactions is gathered and recorded inside these blocks, and every newly generated block is connected to the previous one through the use of cryptographic techniques. The chain of linked blocks stores all the transaction data generated since the launch of a particular blockchain. So the records go all the way back to the first block, which is referred to as the block zero or genesis block. The number of confirmed blocks since the genesis block is denoted as the block height.\
 
 
 ## Block Explorer
@@ -223,13 +219,13 @@ Because the block reward is almost entirely made of the block subsidy, it is ver
 
 ## Blockchain
 
-Blockchain transactions occur within a peer-to-peer network of globally distributed computers (nodes). Each node maintains a copy of the blockchain and contributes to the functioning and security of the network. This is what makes Bitcoin a decentralized digital currency that is borderless, censorship-resistant, and that does not require third-party intermediation.
+Blockchain transactions occur within a peer-to-peer network of globally distributed computers (nodes). Each node maintains a copy of the blockchain and contributes to the functioning and security of the network. This makes $INIX a decentralized digital currency that is borderless, censorship-resistant, that does not require third-party intermediation.
 
-As a distributed ledger technology (DLT) the blockchain is intentionally designed to be highly resistant to modification and frauds (such as double-spending). This is true because the Bitcoin blockchain, as a database of records, cannot be altered, nor can it be tampered without an impractical amount of electricity and computational power - which means the network can enforce the concept of "original" digital documents, making each Bitcoin a very unique and un-copyable form of digital currency.
+As a distributed ledger technology (DLT), the blockchain is intentionally designed to be highly resistant to modification and frauds (such as double-spending). This is true because the Bitcoin blockchain, as a database of records, cannot be altered, nor can it be tampered with no impractical amount of electricity and computational power - which means the network can enforce the concept of "original" digital documents, making each Bitcoin a very unique and un-copyable form of digital currency.
 
 ## Bounty
 
-The term bounty refers to a reward posted by a group or individual to incentivize certain work, behavior, or development. For instance, referral programs may be considered a kind of bounty.In the context of cryptocurrencies, a bounty program is a marketing strategy used by startups during their initial coin offering (ICO) campaigns. It allows them to allocate a certain percentage of their coin’s supply to promote their project.
+The term bounty refers to a reward posted by a group or individual to incentivize certain work, behavior, or development. For instance, referral programs may be considered a kind of bounty. In the context of cryptocurrencies, a bounty program is a marketing strategy used by startups during their initial coin offering (ICO) campaigns. It allows them to allocate a certain percentage of their coin’s supply to promote their project.
 
 ## Breakout
 
@@ -475,11 +471,11 @@ The concept refers to the feeling of anxiety or the idea that other people are s
 
 ## Fear, Uncertainty, and Doubt (FUD)
 
-The traditional meaning of FUD relates to a malicious marketing strategy that involves the dissemination of negative information about the competitors of a particular company, with the final goal to undermine their credibility. The idea is to invite unfavorable opinions and speculation about the products or services of competing businesses so that customers lose confidence in them.
+The traditional meaning of FUD relates to a malicious marketing strategy that involves the dissemination of negative information about the competitors of a particular company, with the final goal of undermining their credibility. The idea is to invite unfavorable opinions and speculation about the products or services of competing businesses so that customers lose confidence in them.
 
 ## Fair Launch&#x20;
 
-A concept where a Developer decides to not seek outside investment and also does not hold back a share of a coin or token's launch for themselves or others. This is considered to be much fairer to early investors as their share of equity or ownership of a coin or token is not diluted by pre-investors or founders/founding teams.
+A concept where a Developer decides not to seek outside investment and also does not hold back a share of a coin or token's launch for themselves or others. This is considered to be much fairer to early investors as their share of equity or ownership of a coin or token is not diluted by pre-investors or founders/founding teams.
 
 ## Fair Launch Coin/Token&#x20;
 
@@ -602,6 +598,8 @@ In the cryptocurrency space, the term halving refers to a process that reduces t
 ## Hard Cap
 
 For an Initial Coin Offering (ICO), the term hard cap refers to the upper limit on the number of tokens that can be sold. It relates to the maximum amount of funds the development team is willing to collect in exchange for their tokens during that early stage of funding.&#x20;
+
+For a token, the term hard cap refers to the maximum cap of the token that can be minted.&#x20;
 
 ## Hash
 
@@ -809,7 +807,7 @@ A multiple signature wallet is a cryptocurrency wallet that controls access and 
 
 ## Node
 
-In the context of blockchain and cryptocurrencies, a node refers to each computer running the Bitcoin client. So the Bitcoin network is made up of thousands of computer nodes spread around the world, and this is what makes Bitcoin a peer-to-peer, distributed economic system.
+In the context of blockchain and cryptocurrencies, a node refers to each computer running the blockchain protocol. So a blockchain network like Initium is made up of thousands of computer nodes spread around the world, and this is what makes Initium a peer-to-peer, distributed economic system.
 
 ## Non-fungible Token (NFT)
 
@@ -887,7 +885,7 @@ A stablecoin is an attractive investment to investors because:
 
 The act of depositing a cryptocurrency coin or token into a yield farming project and/or protocol, whether the access to the project is either through CeFi or DeFi methods.
 
-Stakers hope to gain interest on their deposits into these yield farming projects and offerings. CeFi is considered safer for several reasons - including strict rules, permitting, and regulations. However, DeFi tends to give much higher rewards, while being accompanied by much higher risks, the earlier the investor participates in the project's lifecycle, testing, and development.
+Stakers hope to gain interest in their deposits into these yield farming projects and offerings. CeFi is considered safer for several reasons - including strict rules, permitting, and regulations. However, DeFi tends to give much higher rewards, while being accompanied by much higher risks, the earlier the investor participates in the project's lifecycle, testing, and development.
 
 ## Staking
 
@@ -919,7 +917,7 @@ The Total Value Locked into a Smart Contract or set of Smart Contracts that may 
 
 ## V
 
-## Volatility
+### _Volatility_
 
 In investing, a measure of how rapid changes are seen to the price of an asset or market. Newer early-stage technology companies and projects in the explosive growth stage tend to see very high volatility in the price of their assets in their early days. Should the company or project behind the volatile asset see their venture survive over time, this volatility tends to be much reduced as the company's market cap grows and matures.
 

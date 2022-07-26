@@ -8,7 +8,7 @@ description: >-
 
 ### Low-Cost Transactions&#x20;
 
-Leptons, a fraction of INIX, will be used to pay transaction fees on the Initium network. The proposed basic transaction fee on the Initium network is 1,000,000 leptons, equal to 0.000001 INIX.&#x20;
+Leptons, a fraction of INIX, will be used to pay transaction fees on the Initium network. The proposed basic transaction fee on the Initium network is 5,000,000 leptons, equal to 0.000005 $INIX.&#x20;
 
 ### Initium Fee Model
 
