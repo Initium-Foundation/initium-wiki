@@ -1,6 +1,6 @@
 # Validators Community
 
-Managed by the Initium Foundation and supported by Blox, the Initium Validators Community (IVC) provides a series of services to the validators, including advisory services for profitability, cost-effectiveness, and technical support.&#x20;
+Managed by the Initium Foundation and supported by Blox, the Initium Validators Community (_Argonauts_) provides a series of services to the validators, including advisory services for profitability, cost-effectiveness, and technical support.&#x20;
 
 ### Initium Licensed Validators
 
