@@ -1,7 +1,5 @@
 # Sage
 
-Sage is an oracle project of Initium Labs. Sage project is defined as an oracle protocol that can be used for trading binary options and is capable of price updates every 400ms with Initium architecture, with developers using Sage to build DeFi assets and marketplaces.
+Sage is the blockchain-based oracle being developed for the Initium blockchain. Sage oracle is a third-party service that connects the iCrafts with the outside world, primarily to feed information from the world and the reverse. Data from the world encapsulates multiple sources so that decentralized knowledge is obtained.
 
-Sage is a decentralized oracle network that will provide decentralization at both the oracle and data source levels. By using multiple independent Sage nodes, the users can defend against one oracle being a single point of failure. Similarly, using multiple data sources for sourcing market prices, the users can defend against one data source being a single source of truth.
-
-Sage Oracle will be an open-source project and Initium Labs will announce further information about it.&#x20;
+Initium Labs aims to develop and implement the Sage oracle as a cross-chain oracle enabling Initium crafts to exchange data with the smart contracts on the other blockchain networks (e.g., Ethereum, BSC, Polygon, etc.) and vice-versa. Further information on Sage oracle is available on the Sage [whitepaper](https://whitepaper.initium.foundation).&#x20;

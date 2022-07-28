@@ -42,8 +42,6 @@ The Initium VC is a DAO responsible for managing, allocating, and investing fund
 
 The Initium VC also runs the Dinarious DAO, by which the Initium Community members can vote for the proposals regarding using funds for the Initium VC investments and acquisitions.&#x20;
 
-For further information, you may visit the Initium VC official website at [https://initium.money](https://initium.money)
-
 ### Initium Chapters
 
 Initium Chapters are community-oriented organizations worldwide that aim to promote the Initium ecosystem in their territory. An Initium Chapter can be established by an [Initium Ambassador](how-to-join-initium.md#ambassadors) or [Initium Premium member](how-to-join-initium.md#premiums) in a given region. For more information please read [initium-chapters.md](initium-chapters.md "mention").

@@ -26,7 +26,7 @@ Castor network will be available by Genesis Event at https://castor.initium.netw
 
 Fornax network is the Devnet of Initium. It's a playground for those looking to experience the protocol as a blockchain user, token holder, app developer, or network validator. Fornax network will have the INIX Faucet, which the users can obtain virtual INIX for testing their applications and smart contracts before launching on the Hadron network.
 
-Hadron network will be available by Genesis Event at https://fornax.initium.network.
+Fornax network will be available by Genesis Event at https://fornax.initium.network.
 
 ### Lynx Network
 

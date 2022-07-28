@@ -1,6 +1,6 @@
 # CraftBook
 
-Initium CraftBook (ICB) is a collection of on-chain crafts and recipes targeting the Castor parallel runtime. These programs will be tested against Initium's implementation of Castor and Initium runtime and deployed to the Hadron network. CraftBook helps the developers to deploy their projects, assets, and crafts on the Initium protocol.&#x20;
+Initium CraftBook (ICB) is a collection of on-chain crafts and recipes to set standards for the Initium developers. These crafts will be tested against Initium's implementation of Castor and Hadron networks and deployed to the main runtime. CraftBook helps the developers to deploy their projects, assets, and crafts on the Initium protocol.&#x20;
 
 Initium Lab will regularly update the Initium CfratBook. A community guide for Initium CraftBook will be available on https://craftbook.wiki.&#x20;
 

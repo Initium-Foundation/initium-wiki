@@ -6,9 +6,9 @@ In Initium standards, Vertex refers to Initium Native recipe. A recipe is a grou
 
 The crafts of Vertex are defined as follows:
 
-### Codex Craft
+### Regulus Craft
 
-Also known as `codex_craft` in Initium protocol, Create new codexes, allocate codex data, assign codexes to the owning crafts, transfer leptons from Chieftain-owned codexes and pay transaction fees.
+Also known as `regulus_craft` in Initium protocol, Create new codexes, allocate codex data, assign codexes to the owning crafts, transfer leptons from Codex Craft owned codexes, and pay transaction fees.
 
 * Craft Id: to be announced by Initium Labs
 * Craft Instructions: to be announced by Initium Labs
@@ -43,9 +43,9 @@ Initium protocol, `vote_craft` is used for creating and managing the codexes tha
 * Craft Id: to be announced by Initium Labs
 * Craft Instructions: to be announced by Initium Labs
 
-### Chef&#x20;
+### Pyxis&#x20;
 
-This craft deploys, upgrades, and executes crafts on the chain. Chef craft owns and loads BPF smart contract crafts, allowing the crafts to interface with the runtime.
+This craft deploys, upgrades, and executes crafts on the chain. Pyxis craft owns and loads BPF iCraft (smart contracts), allowing them to interface with the runtime.
 
 * Craft Id: to be announced by Initium Labs
 * Craft Instructions: to be announced by Initium Labs
