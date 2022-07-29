@@ -8,7 +8,7 @@ coverY: 0
 
 # Initium Wiki
 
-![](<.gitbook/assets/initium-new-logo-3-1024x401 (1) (1).png>)
+![](.gitbook/assets/WIKI-Medium.png)
 
 ### What is Initium Wiki
 
