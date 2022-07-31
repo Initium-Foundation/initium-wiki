@@ -12,9 +12,9 @@ Native organizations are the permanent organizations of the Initium ecosystem, f
 
 ### Initium Foundation&#x20;
 
-Available on the official website address [https://initium.foundation](https://initium.foundation), the Initium Foundation is the main body of the DAO with the authorizations above all the departments. All HODLers of Initium native token (INITIUM) are members of the Initium Foundation with the equal right to vote on the DAO proposal on a 1:1 basis (1 token:1 vote). The Initium Foundation manages the Initium Funds, which are the reserves of DAO to be allocated for the development and promotion of the Initium blockchain and ecosystem and for supporting the eligible projects elected by the DAO members to join the Initium ecosystem.
+Available on the official website address [https://initium.foundation](https://initium.foundation), the Initium Foundation is the main body of the DAO with the authorizations above all the departments. All HODLers of Initium native token ($INIX) are members of the Initium Foundation with the equal right to vote on the DAO proposal on a 1:1 basis (1 token:1 vote). The Initium Foundation manages the Initium Reserves, which are the reserves of DAO to be allocated for the development and promotion of the Initium blockchain and ecosystem and for supporting the eligible projects elected by the DAO members to join the Initium ecosystem.
 
-The Initium Foundation is structured into different committees. The Covenant DAO will select the members of the committees, and the Initium Community will choose their desired people to accomplish the missions of the related committee by their direct vote.
+The Initium Foundation is structured into different committees. The Imperium DAO will select the members of the committees, and the Initium Community will choose their desired people to accomplish the missions of the related committee by their direct vote.
 
 * **Prime Members**: these are the founding members of the Initium Foundation who created the initial core of the Initium project. The Primes are permanent members of the Initium Foundation.
 * **Executive Committee**: This committee consists of the C-Level managers of the Initium Foundation and the executives.&#x20;

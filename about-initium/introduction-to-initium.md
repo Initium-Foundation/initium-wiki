@@ -12,7 +12,7 @@ Initium is a Latin word and means "the beginning." This name is adopted as Initi
 
 ### What is Initium?
 
-Initium is an open-source project implementing a new, high-performance, permissionless blockchain, based on Rust. The Initium Foundation is a non-for-profit decentralized autonomous organization (DAP) that maintains the development of the open-source project and encourages contributions to the projects. For more information, you may visit [https://initium.foundation](https://initium.foundation).
+Initium is an open-source project implementing a new, high-performance, permissionless blockchain, based on Rust. The Initium Foundation is a non-for-profit decentralized autonomous organization (DAO) that maintains the development of the open-source ecosystem and encourages contributions to the projects. For more information, you may visit [https://initium.foundation](https://initium.foundation).
 
 ### Why Initium?
 
