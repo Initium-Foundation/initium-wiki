@@ -6,9 +6,9 @@ The voting model in Initium Governance varies between Pre-Genesis and Post-Genes
 
 ### Pre-Genesis Voting Model
 
-Since the majority of $INIX tokens during the Pre-Genesis era are subject to vesting time, the governance issues will be limited to the community-oriented issues Initium VC decisions. Initium Foundation will raise the primary principle for voting by the community. In this period, due to the locking of the majority of the $INIX tokens, the stakeholders will receive voting tokens, called "INIX Vote Token" ($vINIX), based on their stakings.&#x20;
+Since the majority of $INIX tokens during the Pre-Genesis era are subject to vesting time, the governance issues will be limited to the community-oriented issues Initium VVenturesC decisions. Initium Foundation will raise the primary principle for voting by the community. In this period, due to the locking of the majority of the $INIX tokens, the stakeholders will receive voting tokens, called "INIX Vote Token" ($vINIX), based on their staking.&#x20;
 
-The owners of unlocked $INIX tokens need to stake their $INIX tokens to min $vINIX tokens for participating in DAOs. The minting of $vINIX will be done using RedWrap by a 1:1 ratio. The users can burn their $vINIX tokens to remint their $INIX tokens. The HODLers of Seed Funding Sales, Private Investors Sales, Validators Staking Sales, Initium Foundation, and Team allocations whose tokens are subject to a vesting period will receive an equal amount of $vINIX tokens to their $INIX tokens.&#x20;
+The owners of unlocked $INIX tokens need to stake their $INIX tokens to min $vINIX tokens for participating in DAOs. The minting of $vINIX will be done using RedWrap by a 1:1 ratio. The users can burn their $vINIX tokens to re-mint their $INIX tokens. The HODLers of Seed Funding Sales, Private Investors Sales, Validators Staking Sales, Initium Foundation, and Team allocations whose tokens are subject to a vesting period will receive an equal amount of $vINIX tokens to their $INIX tokens.&#x20;
 
 The HODLers of $INIX tokens subject to the Public Sales Options A and B can participate in voting by minting $vINIX using RedWrap upon the termination of their vesting period. During this period, they can vote using the Transparency portal, which represents their votes based on their $INIX holdings. The Transparency votes will be added to the related DAO votes for final results.
 
@@ -26,11 +26,11 @@ This model has many advantages, including:
 These voting tokens are:
 
 * **$BLOX**: the voting token used in Blox DAO.&#x20;
-* **$DENA**: the voting token used in Denarius DAO.&#x20;
+* **$VENT**: the voting token used in Ventures DAO.&#x20;
 * **$CONT**: the voting token used in Covenant DAO.&#x20;
 * **$COLE**: the voting token used in Collectio DAO.&#x20;
 
-INIX holders can convert their $INIX tokens to their desired DAO tokens and vice versa using RedWap.&#x20;
+INIX holders can convert their $INIX tokens to their desired DAO tokens and vice versa using RedWrap.&#x20;
 
 ### The Trust Period
 

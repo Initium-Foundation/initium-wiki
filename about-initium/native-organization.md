@@ -36,11 +36,11 @@ Initium Labs mainly engages in technical aspects of Initium and works closely wi
 
 Initium Labs releases the latest works on the Initium projects and their forks on [Initium Labs Github](https://github.com/Initium-Labs).&#x20;
 
-### **Initium VC**
+### **Initium Ventures**
 
-The Initium VC is a DAO responsible for managing, allocating, and investing funds of the Initium Reserves Fund. This is necessary to note that the Initium Reserves Fund is different from Initium Foundation Reserves. Initium VC works closely with the **Business Development** and **Financial** committees of the Initium Foundation to assess the business and investment opportunities in new projects, acquisitions of new projects and platforms, etc.&#x20;
+The Initium Ventures is a DAO responsible for managing, allocating, and investing funds of the Initium Reserves Fund. This is necessary to note that the Initium Reserves Fund is different from Initium Foundation Reserves. Initium Ventures works closely with the **Business Development** and **Financial** committees of the Initium Foundation to assess the business and investment opportunities in new projects, acquisitions of new projects and platforms, etc.&#x20;
 
-The Initium VC also runs the Dinarious DAO, by which the Initium Community members can vote for the proposals regarding using funds for the Initium VC investments and acquisitions.&#x20;
+The Initium Ventures also runs the Ventures DAO, by which the Initium Community members can vote for the proposals regarding using funds for the Initium Ventures investments and acquisitions.&#x20;
 
 ### Initium Chapters
 

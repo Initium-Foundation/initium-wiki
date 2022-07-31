@@ -6,6 +6,6 @@ To enhance the efficiency and the authority of the Initium community decision ma
 
 **Initium Developers Community** **DAO**: a.k.a. **Blox DAO**, this DAO is the authorized body in the Initium DAOs for accepting, rejecting, and implementing any proposals regarding the changes to the Initium protocol codes and standards. Depending on the impact of a given proposal, such a proposal may need to be approved by the _Imperium DAO_ to be officially approved by the Initium community and stakeholders.&#x20;
 
-**Initium VC DAO**: a.k.a. **Denarius DAO**, this DAO is the authorized body in the Initium DAOs for accepting, rejecting, and implementing any proposals regarding the allocation and the use of Initium Treasury Funds for supporting the new projects, acquisitions of the new startups by the Initium Foundation, airdrops, etc.&#x20;
+**Initium Ventures DAO**: a.k.a. **Ventures DAO**, this DAO is the authorized body in the Initium DAOs for accepting, rejecting, and implementing any proposals regarding the allocation and the use of Initium Treasury Funds for supporting the new projects, acquisitions of the new startups by the Initium Foundation, airdrops, etc.&#x20;
 
 **Initium Chapters' DAO**: a.k.a. **Collectio DAO**, this DAO is restricted to the members of a given Initium Chapter. The decisions of this DAO are restricted to the related Initium Chapter, however, the chapters can conduct joint DAO for the relations between themselves.&#x20;
