@@ -26,7 +26,7 @@ This model has many advantages, including:
 These voting tokens are:
 
 * **$BLOX**: the voting token used in Blox DAO.&#x20;
-* **$VENT**: the voting token used in Ventures DAO.&#x20;
+* **$VEND**: the voting token used in Ventures DAO.&#x20;
 * **$CONT**: the voting token used in Covenant DAO.&#x20;
 * **$COLE**: the voting token used in Collectio DAO.&#x20;
 
