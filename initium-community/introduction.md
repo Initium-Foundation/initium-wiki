@@ -6,4 +6,4 @@ The Initium community members can join the [initium-premium.md](../about-initium
 
 ### The Initiumer
 
-In the Initium ecosystem, we address the community members with the "Initiumer" slang. An Initiumer is an individual, team, organization, institution, or group that contributes to the Initium ecosystem.&#x20;
+In the Initium ecosystem, we address the community members as the Initiumer. An Initiumer is an individual, team, organization, institution, or group contributing to the Initium ecosystem.
