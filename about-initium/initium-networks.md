@@ -18,7 +18,7 @@ Hadron network will be available by Genesis Event at https://hadron.initium.netw
 
 ### Castor Network
 
-Castor network is the parallel mainnet of Initium for launching applications, smart contracts, and tokens compatible with Ethereum Virtual Machine (EVM) on the Initium blockchain. The Initium validator will run this network in parallel with the Hadron network. This network relies on the Hadron network for confirmation of transactions. Using the Castor network, the projects running on  Ethereum-like blockchains (e.g. Polygone, BSC, etc.) can easily integrate with Initium and benefit from its liquidity, scalability, and security.&#x20;
+Castor network is the L2 network of Initium for launching applications, smart contracts, and tokens compatible with Ethereum Virtual Machine (EVM) on the Initium blockchain. This network relies on the Hadron network for confirmation of transactions. Using the Castor network, the projects running on  Ethereum-like blockchains (e.g. Polygone, BSC, etc.) can easily integrate with Initium and benefit from its liquidity, scalability, and security.&#x20;
 
 Castor network will be available by Genesis Event at https://castor.initium.network.
 
