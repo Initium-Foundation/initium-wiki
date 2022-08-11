@@ -28,6 +28,8 @@ Fornax network is the Devnet of Initium. It's a playground for those looking to 
 
 Fornax network will be available by Genesis Event at https://fornax.initium.network.
 
+![Initium Blockchain Layers. Source: Initium Foundation website. ](../.gitbook/assets/layers.gif)
+
 ### Lynx Network
 
 Lynx is essentially a protocol for launching Lynx networks––the consortium networks and private blockchains–– based on the Initium technology. Lynx network is where the users can launch their blockchains using the Lynx protocol. In every Lynx network, a pre-defined set of trusted nodes controls the consensus process. These nodes are the existing Certified Initium Validators that the participants of a given private blockchain chose to validate their transactions by paying rent fees in INIX to the validators. Every validator can offer its rental rate in the Lynx marketplace. Although every network on Lynx can have its native token for defined functions on the blockchain (e.g., voting, governance, etc.), the transactions of these networks are conducted on the Hadron network, and leptons pay the transaction fees. A validator may contribute to several consortium networks. The validators must activate their config's Lynx portal to enable the Lynx network.
