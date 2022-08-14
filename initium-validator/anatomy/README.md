@@ -15,7 +15,7 @@ Validators for a public blockchain are maintained primarily by volunteers, who t
 
 Validator anatomy on the Initium Inanis version has the anatomy as the picture below.&#x20;
 
-![Figure 1. Validator Anatomy on the Initium Inanis version. ](../../.gitbook/assets/validator-64cad642fda2dc0de9cd1b695651e620.svg)
+![Figure 1. Validator Anatomy on the Initium Inanis version. ](../../.gitbook/assets/Initium-Validator.png)
 
 ### Pipelining
 
