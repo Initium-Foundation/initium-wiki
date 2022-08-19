@@ -30,7 +30,7 @@ Nodes become aware of their neighboring nodes in the neighbor discovery state. T
 
 ### 2/2) **Consensus Phase of Covenant**
 
-Consensus Control (Cons-Ctrl) is the second phase of Covenant which repeats periodically after specific time slots to maintain the synchronization. The cluster heads exchange time information to find _local centers_ of their neighborhood. The Local centers are CHs at a configurable number of hops from the network's edge.&#x20;
+Consensus Control (Cons-Ctrl) is the second phase of Covenant which repeats periodically after specific time slots to maintain the synchronization. The cluster heads exchange time information to find _local centers_ of their neighborhood.&#x20;
 
 ![Figure 3. Convergence and consensus phase with TDMA communication](<../.gitbook/assets/Screen Shot 2022-06-30 at 8.48.08 PM.png>)
 
@@ -40,5 +40,5 @@ The elected cluster bridge (CB) and supervision cluster bridge (SCB) nodes act a
 
 ### **Hashing Function**
 
-Covenant uses SHA256 algorithm to hash the data. Hashing new data starts with a cryptographic hash function, whose output is not predictable without running the function (e.g., SHAsha256). It runs the function from some random starting value, takes its output, and passes it as the input into the same function again. Record the number of times the function has been called and the output at each call.
+Covenant uses the SHA256 algorithm to hash the data. Hashing new data starts with a cryptographic hash function, whose output is not predictable without running the function (e.g., SHA256). It runs the function from some random starting value, takes its output, and passes it as the input into the same function again. Record the number of times the function has been called and the output at each call.
 
